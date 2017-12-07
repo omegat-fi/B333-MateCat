@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<martif xml:lang="en" type="TBX">
+  <text>
+    <body>
+      <termEntry>
+        <descrip type="conceptId">05wGHQY71498cRhMPE33GkFY1</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>Esikatselu</term>
+            <termNote type="termId">x0Vypsm31WtbcejM6I0CG19t6</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">B333Sairanen</termNote>
+            <termNote type="createdAt">1511111912830</termNote>
+            <termNote type="lastModifiedBy">B333Sairanen</termNote>
+            <termNote type="lastModifiedAt">1511111912830</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Preview</term>
+            <termNote type="termId">kqo8e1nSx4r5Qe8geQ0Wfmem1</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">B333Sairanen</termNote>
+            <termNote type="createdAt">1511111912823</termNote>
+            <termNote type="lastModifiedBy">B333Sairanen</termNote>
+            <termNote type="lastModifiedAt">1511111912823</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">0hFmO0JR14KlUZC0g0o0IVdIr</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>Hallintapaneeli</term>
+            <termNote type="termId">vik5KMNhwJM2TN4QXUgx1B0L0</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">B333Sairanen</termNote>
+            <termNote type="createdAt">1511112039723</termNote>
+            <termNote type="lastModifiedBy">B333Sairanen</termNote>
+            <termNote type="lastModifiedAt">1511112039723</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Management Panel</term>
+            <termNote type="termId">B0BulnkkxrU5Cz8Mqpw6yO1w2</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">B333Sairanen</termNote>
+            <termNote type="createdAt">1511112039717</termNote>
+            <termNote type="lastModifiedBy">B333Sairanen</termNote>
+            <termNote type="lastModifiedAt">1511112039717</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">2KVJDdhfMGM2BA4cbtwHBJWc</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>tunniste</term>
+            <termNote type="termId">3yG5djHBMfw2MF4EviMHv1ml0</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">B333Sairanen</termNote>
+            <termNote type="createdAt">1511130629195</termNote>
+            <termNote type="lastModifiedBy">B333Sairanen</termNote>
+            <termNote type="lastModifiedAt">1511130629195</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>tag</term>
+            <termNote type="termId">YQ7KCr0p1OI9IqiMlK0iiV40e</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">B333Sairanen</termNote>
+            <termNote type="createdAt">1511130629189</termNote>
+            <termNote type="lastModifiedBy">B333Sairanen</termNote>
+            <termNote type="lastModifiedAt">1511130629189</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">65jv3TrIMLL2M18Mey10pf4a7</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>linkki</term>
+            <termNote type="termId">5lXLhrgPw915ar88ha1G64m63</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">B333Gröhn</termNote>
+            <termNote type="createdAt">1511341059393</termNote>
+            <termNote type="lastModifiedBy">B333Gröhn</termNote>
+            <termNote type="lastModifiedAt">1511341059393</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>URL</term>
+            <termNote type="termId">JuRNifa1xgj5Uk8wG6wZcgt20</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">B333Gröhn</termNote>
+            <termNote type="createdAt">1511341059385</termNote>
+            <termNote type="lastModifiedBy">B333Gröhn</termNote>
+            <termNote type="lastModifiedAt">1511341059385</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">esuOGzMWg0d5Gk9wsh1ar8x03</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>Käännöseditori</term>
+            <termNote type="termId">vaIMWeyb003aEji0Ss6Ajmjp4</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">B333Sairanen</termNote>
+            <termNote type="createdAt">1511113396190</termNote>
+            <termNote type="lastModifiedBy">B333Sairanen</termNote>
+            <termNote type="lastModifiedAt">1511113396190</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Translation Editor</term>
+            <termNote type="termId">9xoNpxcqgkd2cU44eHwknWxi</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">B333Sairanen</termNote>
+            <termNote type="createdAt">1511113396185</termNote>
+            <termNote type="lastModifiedBy">B333Sairanen</termNote>
+            <termNote type="lastModifiedAt">1511113396185</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">zA73QM13wML5SX8o8Kwg6igR0</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>Volyymianalyysi</term>
+            <termNote type="termId">yeOAZhuc0aP4CU8gUS0udQ823</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">B333Sairanen</termNote>
+            <termNote type="createdAt">1511127635525</termNote>
+            <termNote type="lastModifiedBy">B333Sairanen</termNote>
+            <termNote type="lastModifiedAt">1511127635525</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Volume Analysis</term>
+            <termNote type="termId">uO3Au8gHwx62kH40Kq0kRYRU2</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">B333Sairanen</termNote>
+            <termNote type="createdAt">1511127635519</termNote>
+            <termNote type="lastModifiedBy">B333Sairanen</termNote>
+            <termNote type="lastModifiedAt">1511127635519</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">Chr5wDMi0eP52h9oEC182hMY2</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>Lataa käännös</term>
+            <termNote type="termId">Cf6ux8Ma04I541iwXK3W9s173</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">B333Sairanen</termNote>
+            <termNote type="createdAt">1511111745753</termNote>
+            <termNote type="lastModifiedBy">B333Gröhn</termNote>
+            <termNote type="lastModifiedAt">1511343130073</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Download Translation</term>
+            <termNote type="termId">OWEdTJuU0mo4y58wcjwJY43l1</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">B333Sairanen</termNote>
+            <termNote type="createdAt">1511111745747</termNote>
+            <termNote type="lastModifiedBy">B333Sairanen</termNote>
+            <termNote type="lastModifiedAt">1511111745747</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">I5EYB0CY0C1m8pD0oad8YjJ30</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>käännöstoimisto</term>
+            <termNote type="termId">HniGQQvZg4O28M4g43041VOs1</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">B333Gröhn</termNote>
+            <termNote type="createdAt">1511342077561</termNote>
+            <termNote type="lastModifiedBy">B333Gröhn</termNote>
+            <termNote type="lastModifiedAt">1511342077561</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>LSP</term>
+            <termNote type="termId">9kStS8zq0I85aZ80q7040UCi6</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">B333Gröhn</termNote>
+            <termNote type="createdAt">1511342077546</termNote>
+            <termNote type="lastModifiedBy">B333Gröhn</termNote>
+            <termNote type="lastModifiedAt">1511342077546</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">T34I8Kz202d4sb8wne0osjJ33</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>Käännöseditorin käyttöliittymä</term>
+            <termNote type="termId">i7Xb0hZt165ak1Bw1s2YMVoS9</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">B333Gröhn</termNote>
+            <termNote type="createdAt">1510733367958</termNote>
+            <termNote type="lastModifiedBy">B333Gröhn</termNote>
+            <termNote type="lastModifiedAt">1510733367958</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Translation Editor User Interface</term>
+            <termNote type="termId">GDqGxTDmg175c39UQ03iiF6Y0</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">true</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">B333Gröhn</termNote>
+            <termNote type="createdAt">1510733367952</termNote>
+            <termNote type="lastModifiedBy">B333Gröhn</termNote>
+            <termNote type="lastModifiedAt">1510733367952</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martif>

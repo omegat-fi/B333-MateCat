@@ -1,0 +1,16 @@
+12/7/17 9:10 PM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	     858	11904	                      59119	                        67694	     3	
+Remaining:       	     858	11904	                      59119	                        67694	     3	
+Unique:          	     758	10924	                      54237	                        62419	     3	
+Unique Remaining:	     758	10924	                      54237	                        62419	     3	
+
+
+Individual File Statistics:
+
+File Name                                                             	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+2.1 MateCat-User-Manual-and-Installation-Guide_v1.4-en-fi-T.mxliff.xlf	           270	               270	            237	                      237	       3918	           3918	        3636	                  3636	                            23357	                                23357	                             21989	                                       21989	                              26248	                                  26248	                               24764	                                         24764	
+2.2 MateCat-User-Manual-and-Installation-Guide_v1.4-en-fi-T.mxliff.xlf	           245	               245	            222	                      222	       4075	           4075	        3807	                  3807	                            17852	                                17852	                             16477	                                       16477	                              20782	                                  20782	                               19299	                                         19299	
+2.3 MateCat-User-Manual-and-Installation-Guide_v1.4-en-fi-T.mxliff.xlf	           343	               343	            299	                      299	       3911	           3911	        3481	                  3481	                            17910	                                17910	                             15771	                                       15771	                              20664	                                  20664	                               18356	                                         18356	

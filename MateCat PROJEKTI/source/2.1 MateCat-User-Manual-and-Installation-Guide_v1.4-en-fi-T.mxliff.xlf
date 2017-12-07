@@ -1,0 +1,1627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="MateCat-User-Manual-and-Installation-Guide_v1.4.docx" source-language="en" target-language="fi" datatype="x-undefined">
+<body>
+<group id="0">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:0" xml:space="preserve">
+<source xml:lang="en">{b>MateCat&lt;b}</source>
+<target xml:lang="fi">{b>MateCat&lt;b}</target>
+</trans-unit>
+</group>
+<group id="1">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:1" xml:space="preserve">
+<source xml:lang="en">{b>Post-editing and outsourcing made easy&lt;b}</source>
+<target xml:lang="fi">{b>Post-editing and outsourcing made easy&lt;b}</target>
+</trans-unit>
+</group>
+<group id="2">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:2" xml:space="preserve">
+<source xml:lang="en">{1}{b>User manual and installation guide&lt;b}</source>
+<target xml:lang="fi">{1}{b>User manual and installation guide&lt;b}</target>
+</trans-unit>
+</group>
+<group id="3">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:3" xml:space="preserve">
+<source xml:lang="en">{1>Introducing MateCa&lt;1}{2>t&lt;2}{3>................................................................................................................&lt;3}</source>
+<target xml:lang="fi">{1>Introducing MateCa&lt;1}{2>t&lt;2}{3>................................................................................................................&lt;3}</target>
+</trans-unit>
+</group>
+<group id="4">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:4" xml:space="preserve">
+<source xml:lang="en">{3>4 &lt;3}How MateCat Calculates Payable Words.......................................................................................4 Volume Analysis Pag{4>e&lt;4}............................................................................................................................5 Supported browser, languages and formats................................................................................6 Translation Process.................................................................................................................................9 {5>Start working with MateCat ................................................................................................11 &lt;5}MateCat Home Page and Logi{6>n&lt;6}.......................................................................................................11 Creating Projects ...................................................................................................................................11 How To Upload File(s) for Translatio{7>n&lt;7}.......................................................................................12 Translation Memory and Machine Translation.......................................................................14 Machine Translation Servers...........................................................................................................15 Analysis Repor{8>t&lt;8}......................................................................................................................................16 Public Translation Memory and Translation Memory Ke{9>y&lt;9}...............................................20 TM backup and update{10>s&lt;10}.....................................................................................................................21 How to add a Glossary.........................................................................................................................22 Translation Editor User Interface..................................................................................................23</source>
+<target xml:lang="fi">{3>4 &lt;3}How MateCat Calculates Payable Words.......................................................................................4 Volume Analysis Pag{4>e&lt;4}............................................................................................................................5 Supported browser, languages and formats................................................................................6 Translation Process.................................................................................................................................9 {5>Start working with MateCat ................................................................................................11 &lt;5}MateCat Home Page and Logi{6>n&lt;6}.......................................................................................................11 Creating Projects ...................................................................................................................................11 How To Upload File(s) for Translatio{7>n&lt;7}.......................................................................................12 Translation Memory and Machine Translation.......................................................................14 Machine Translation Servers...........................................................................................................15 Analysis Repor{8>t&lt;8}......................................................................................................................................16 Public Translation Memory and Translation Memory Ke{9>y&lt;9}...............................................20 TM backup and update{10>s&lt;10}.....................................................................................................................21 How to add a Glossary.........................................................................................................................22 Translation Editor User Interface..................................................................................................23</target>
+</trans-unit>
+</group>
+<group id="5">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:5" xml:space="preserve">
+<source xml:lang="en">o</source>
+<target xml:lang="fi">o</target>
+</trans-unit>
+</group>
+<group id="6">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:6" xml:space="preserve">
+<source xml:lang="en">Top ba{1>r&lt;1}...........................................................................................................................................24 o</source>
+<target xml:lang="fi">Top ba{1>r&lt;1}...........................................................................................................................................24 o</target>
+</trans-unit>
+</group>
+<group id="7">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:7" xml:space="preserve">
+<source xml:lang="en">Editor windo{2>w&lt;2}............................................................................................................................26 o</source>
+<target xml:lang="fi">Editor windo{2>w&lt;2}............................................................................................................................26 o</target>
+</trans-unit>
+</group>
+<group id="8">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:8" xml:space="preserve">
+<source xml:lang="en">Bottom bar....................................................................................................................................28</source>
+<target xml:lang="fi">Bottom bar....................................................................................................................................28</target>
+</trans-unit>
+</group>
+<group id="9">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:9" xml:space="preserve">
+<source xml:lang="en">{1>Translation Toolbo&lt;1}{2>x&lt;2}{3>..............................................................................................................31 &lt;3}Manage your language resource{4>s&lt;4}..................................................................................................31 Working Offline......................................................................................................................................35 Using TM matches, MT suggestions and Glossary terms....................................................36 How to Use Glossary Terms in Your Translated Segment .................................................39 Working with Text and Tags............................................................................................................40</source>
+<target xml:lang="fi">{1>Translation Toolbo&lt;1}{2>x&lt;2}{3>..............................................................................................................31 &lt;3}Manage your language resource{4>s&lt;4}..................................................................................................31 Working Offline......................................................................................................................................35 Using TM matches, MT suggestions and Glossary terms....................................................36 How to Use Glossary Terms in Your Translated Segment .................................................39 Working with Text and Tags............................................................................................................40</target>
+</trans-unit>
+</group>
+<group id="10">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:10" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="11">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:11" xml:space="preserve">
+<source xml:lang="en">Page 2</source>
+<target xml:lang="fi">Page 2</target>
+</trans-unit>
+</group>
+<group id="12">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:12" xml:space="preserve">
+<source xml:lang="en">o</source>
+<target xml:lang="fi">o</target>
+</trans-unit>
+</group>
+<group id="13">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:13" xml:space="preserve">
+<source xml:lang="en">Tag autocompletion..................................................................................................................40 o</source>
+<target xml:lang="fi">Tag autocompletion..................................................................................................................40 o</target>
+</trans-unit>
+</group>
+<group id="14">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:14" xml:space="preserve">
+<source xml:lang="en">Formatting features..................................................................................................................40 o</source>
+<target xml:lang="fi">Formatting features..................................................................................................................40 o</target>
+</trans-unit>
+</group>
+<group id="15">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:15" xml:space="preserve">
+<source xml:lang="en">Adding line breaks and hidden tex{1>t&lt;1}..................................................................................41 o</source>
+<target xml:lang="fi">Adding line breaks and hidden tex{1>t&lt;1}..................................................................................41 o</target>
+</trans-unit>
+</group>
+<group id="16">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:16" xml:space="preserve">
+<source xml:lang="en">Placeables and untranslatable tex{2>t&lt;2}...................................................................................41</source>
+<target xml:lang="fi">Placeables and untranslatable tex{2>t&lt;2}...................................................................................41</target>
+</trans-unit>
+</group>
+<group id="17">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:17" xml:space="preserve">
+<source xml:lang="en">Confirming a Segment.........................................................................................................................42 Autopropagation....................................................................................................................................42 Concordance Search.............................................................................................................................43 Navigating through Files....................................................................................................................44 QA Message{1>s&lt;1}............................................................................................................................................44 o     Tag Mismatc{2>h&lt;2}..............................................................................................................................45</source>
+<target xml:lang="fi">Confirming a Segment.........................................................................................................................42 Autopropagation....................................................................................................................................42 Concordance Search.............................................................................................................................43 Navigating through Files....................................................................................................................44 QA Message{1>s&lt;1}............................................................................................................................................44 o     Tag Mismatc{2>h&lt;2}..............................................................................................................................45</target>
+</trans-unit>
+</group>
+<group id="18">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:18" xml:space="preserve">
+<source xml:lang="en">o</source>
+<target xml:lang="fi">o</target>
+</trans-unit>
+</group>
+<group id="19">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:19" xml:space="preserve">
+<source xml:lang="en">Translation conflicts ................................................................................................................46 o</source>
+<target xml:lang="fi">Translation conflicts ................................................................................................................46 o</target>
+</trans-unit>
+</group>
+<group id="20">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:20" xml:space="preserve">
+<source xml:lang="en">Tag Order Mismatch.................................................................................................................46 o</source>
+<target xml:lang="fi">Tag Order Mismatch.................................................................................................................46 o</target>
+</trans-unit>
+</group>
+<group id="21">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:21" xml:space="preserve">
+<source xml:lang="en">Whitespaces mismatc{1>h&lt;1}...........................................................................................................47</source>
+<target xml:lang="fi">Whitespaces mismatc{1>h&lt;1}...........................................................................................................47</target>
+</trans-unit>
+</group>
+<group id="22">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:22" xml:space="preserve">
+<source xml:lang="en">Spell-checking.........................................................................................................................................48 Editing Log................................................................................................................................................50 Finalising a Projec{1>t&lt;1}...............................................................................................................................53 {2>Managing Projects with MateCat.......................................................................................55 &lt;2}Management Pane{3>l&lt;3}...............................................................................................................................55 Splitting Jobs............................................................................................................................................58 Resources for LSPs ...............................................................................................................................63 {4>Appendix....................................................................................................................................65 &lt;4}{5>Keyboard Shortcuts..............................................................................................................................65 Installing an open source version of MateCat..........................................................................68&lt;5}</source>
+<target xml:lang="fi">Spell-checking.........................................................................................................................................48 Editing Log................................................................................................................................................50 Finalising a Projec{1>t&lt;1}...............................................................................................................................53 {2>Managing Projects with MateCat.......................................................................................55 &lt;2}Management Pane{3>l&lt;3}...............................................................................................................................55 Splitting Jobs............................................................................................................................................58 Resources for LSPs ...............................................................................................................................63 {4>Appendix....................................................................................................................................65 &lt;4}{5>Keyboard Shortcuts..............................................................................................................................65 Installing an open source version of MateCat..........................................................................68&lt;5}</target>
+</trans-unit>
+</group>
+<group id="23">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:23" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="24">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:24" xml:space="preserve">
+<source xml:lang="en">Page 3</source>
+<target xml:lang="fi">Page 3</target>
+</trans-unit>
+</group>
+<group id="25">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:25" xml:space="preserve">
+<source xml:lang="en">Introducing MateCat</source>
+<target xml:lang="fi">Introducing MateCat</target>
+</trans-unit>
+</group>
+<group id="26">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:26" xml:space="preserve">
+<source xml:lang="en">MateCat is an open source, enterprise-level, web-based translation software which closely integrates machine translation and human translation.</source>
+<target xml:lang="fi">MateCat is an open source, enterprise-level, web-based translation software which closely integrates machine translation and human translation.</target>
+</trans-unit>
+</group>
+<group id="27">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:27" xml:space="preserve">
+<source xml:lang="en">Using MateCat, you obtain between 10% and 20% more matches for your translations thanks to the largest public translation memory in the world and the best machine translation currently in use.</source>
+<target xml:lang="fi">Using MateCat, you obtain between 10% and 20% more matches for your translations thanks to the largest public translation memory in the world and the best machine translation currently in use.</target>
+</trans-unit>
+</group>
+<group id="28">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:28" xml:space="preserve">
+<source xml:lang="en">How MateCat Calculates Payable Words</source>
+<target xml:lang="fi">How MateCat Calculates Payable Words</target>
+</trans-unit>
+</group>
+<group id="29">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:29" xml:space="preserve">
+<source xml:lang="en">MateCat counts words by using a {1>combination &lt;1}{2>of advanced &lt;2}{3>TM technology &lt;3}(MyMemory) and application of a reduction in weighting {4>for machine translation suggestions&lt;4}.</source>
+<target xml:lang="fi">MateCat counts words by using a {1>combination &lt;1}{2>of advanced &lt;2}{3>TM technology &lt;3}(MyMemory) and application of a reduction in weighting {4>for machine translation suggestions&lt;4}.</target>
+</trans-unit>
+</group>
+<group id="30">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:30" xml:space="preserve">
+<source xml:lang="en">This allows MateCat to give you {5>more matches &lt;5}{6>than any other translation tool.&lt;6}</source>
+<target xml:lang="fi">This allows MateCat to give you {5>more matches &lt;5}{6>than any other translation tool.&lt;6}</target>
+</trans-unit>
+</group>
+<group id="31">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:31" xml:space="preserve">
+<source xml:lang="en">According to industry standards, words or phrases with a 100% Translation Memory match are given a weighting of 30% and words or phrases with a partial TM match are given a weighting of 60%.</source>
+<target xml:lang="fi">According to industry standards, words or phrases with a 100% Translation Memory match are given a weighting of 30% and words or phrases with a partial TM match are given a weighting of 60%.</target>
+</trans-unit>
+</group>
+<group id="32">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:32" xml:space="preserve">
+<source xml:lang="en">Here is an example to calculate weighted words{1>1&lt;1}{2>:&lt;2}</source>
+<target xml:lang="fi">Here is an example to calculate weighted words{1>1&lt;1}{2>:&lt;2}</target>
+</trans-unit>
+</group>
+<group id="33">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:33" xml:space="preserve">
+<source xml:lang="en">No TM match = Lower fuzzy ranges = Higher fuzzy ranges = 100% match =</source>
+<target xml:lang="fi">No TM match = Lower fuzzy ranges = Higher fuzzy ranges = 100% match =</target>
+</trans-unit>
+</group>
+<group id="34">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:34" xml:space="preserve">
+<source xml:lang="en">Repetition (same segment repeated in the document) = Context match (more than 100% match, because of same context information in the TM) =</source>
+<target xml:lang="fi">Repetition (same segment repeated in the document) = Context match (more than 100% match, because of same context information in the TM) =</target>
+</trans-unit>
+</group>
+<group id="35">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:35" xml:space="preserve">
+<source xml:lang="en">{1}100%</source>
+<target xml:lang="fi">{1}100%</target>
+</trans-unit>
+</group>
+<group id="36">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:36" xml:space="preserve">
+<source xml:lang="en">50 and 70% 40%</source>
+<target xml:lang="fi">50 and 70% 40%</target>
+</trans-unit>
+</group>
+<group id="37">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:37" xml:space="preserve">
+<source xml:lang="en">30% 30% 0%</source>
+<target xml:lang="fi">30% 30% 0%</target>
+</trans-unit>
+</group>
+<group id="38">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:38" xml:space="preserve">
+<source xml:lang="en">1 {1>This is an example.&lt;1}</source>
+<target xml:lang="fi">1 {1>This is an example.&lt;1}</target>
+</trans-unit>
+</group>
+<group id="39">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:39" xml:space="preserve">
+<source xml:lang="en">{1>Each CAT tool counts words differently and each LSP calculates weighted words differently.&lt;1}</source>
+<target xml:lang="fi">{1>Each CAT tool counts words differently and each LSP calculates weighted words differently.&lt;1}</target>
+</trans-unit>
+</group>
+<group id="40">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:40" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="41">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:41" xml:space="preserve">
+<source xml:lang="en">Page 4</source>
+<target xml:lang="fi">Page 4</target>
+</trans-unit>
+</group>
+<group id="42">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:42" xml:space="preserve">
+<source xml:lang="en">MateCat counts matches according to these standards.</source>
+<target xml:lang="fi">MateCat counts matches according to these standards.</target>
+</trans-unit>
+</group>
+<group id="43">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:43" xml:space="preserve">
+<source xml:lang="en">For Machine Translation, MateCat decides which reduction in weighting to apply on the basis of the extent to which the {1>MT &lt;1}has been useful for the past 1 million words for each language combination.</source>
+<target xml:lang="fi">For Machine Translation, MateCat decides which reduction in weighting to apply on the basis of the extent to which the {1>MT &lt;1}has been useful for the past 1 million words for each language combination.</target>
+</trans-unit>
+</group>
+<group id="44">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:44" xml:space="preserve">
+<source xml:lang="en">MateCat assumes that the less the machine translation suggestion is edited by translators, the more useful it is.</source>
+<target xml:lang="fi">MateCat assumes that the less the machine translation suggestion is edited by translators, the more useful it is.</target>
+</trans-unit>
+</group>
+<group id="45">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:45" xml:space="preserve">
+<source xml:lang="en">We decided to {1>split the benefits of this technology &lt;1}{2>between the language service provider and the translator.&lt;2}</source>
+<target xml:lang="fi">We decided to {1>split the benefits of this technology &lt;1}{2>between the language service provider and the translator.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="46">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:46" xml:space="preserve">
+<source xml:lang="en">{2>So, if a translator saves 20% of his/her time, the word count is reduced by 10% only.&lt;2}</source>
+<target xml:lang="fi">{2>So, if a translator saves 20% of his/her time, the word count is reduced by 10% only.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="47">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:47" xml:space="preserve">
+<source xml:lang="en">{1>How MateCat counts &lt;1}{2>payable words &lt;2}in a project is indicated in the volume analysis {3>report&lt;3} generated during {4>creation of the project&lt;4} itself.</source>
+<target xml:lang="fi">{1>How MateCat counts &lt;1}{2>payable words &lt;2}in a project is indicated in the volume analysis {3>report&lt;3} generated during {4>creation of the project&lt;4} itself.</target>
+</trans-unit>
+</group>
+<group id="48">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:48" xml:space="preserve">
+<source xml:lang="en">Volume Analysis Page</source>
+<target xml:lang="fi">Volume Analysis Page</target>
+</trans-unit>
+</group>
+<group id="49">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:49" xml:space="preserve">
+<source xml:lang="en">The volume analysis page which opens during the creation of a project in MateCat shows you a global {1>report &lt;1}{2>of the volume &lt;2}to be translated:</source>
+<target xml:lang="fi">The volume analysis page which opens during the creation of a project in MateCat shows you a global {1>report &lt;1}{2>of the volume &lt;2}to be translated:</target>
+</trans-unit>
+</group>
+<group id="50">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:50" xml:space="preserve">
+<source xml:lang="en">{1>Standard weighted words&lt;1}:</source>
+<target xml:lang="fi">{1>Standard weighted words&lt;1}:</target>
+</trans-unit>
+</group>
+<group id="51">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:51" xml:space="preserve">
+<source xml:lang="en">The volume as calculated by {2>industry standard CAT tools.&lt;2}</source>
+<target xml:lang="fi">The volume as calculated by {2>industry standard CAT tools.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="52">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:52" xml:space="preserve">
+<source xml:lang="en">Calculation of the weighted word count takes into consideration repetitions and TM matches.</source>
+<target xml:lang="fi">Calculation of the weighted word count takes into consideration repetitions and TM matches.</target>
+</trans-unit>
+</group>
+<group id="53">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:53" xml:space="preserve">
+<source xml:lang="en">{1>MateCat weighted words&lt;1}:</source>
+<target xml:lang="fi">{1>MateCat weighted words&lt;1}:</target>
+</trans-unit>
+</group>
+<group id="54">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:54" xml:space="preserve">
+<source xml:lang="en">The {2>MateCat word count&lt;2} which not only counts repetitions and TM matches, but also generates reductions in weightings for internal matches and MT suggestions.</source>
+<target xml:lang="fi">The {2>MateCat word count&lt;2} which not only counts repetitions and TM matches, but also generates reductions in weightings for internal matches and MT suggestions.</target>
+</trans-unit>
+</group>
+<group id="55">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:55" xml:space="preserve">
+<source xml:lang="en">{1>Raw words&lt;1}:</source>
+<target xml:lang="fi">{1>Raw words&lt;1}:</target>
+</trans-unit>
+</group>
+<group id="56">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:56" xml:space="preserve">
+<source xml:lang="en">The word count without any reduction in weighting for repetitions or matches.</source>
+<target xml:lang="fi">The word count without any reduction in weighting for repetitions or matches.</target>
+</trans-unit>
+</group>
+<group id="57">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:57" xml:space="preserve">
+<source xml:lang="en">For each language pair, you will find the details of the analysis.</source>
+<target xml:lang="fi">For each language pair, you will find the details of the analysis.</target>
+</trans-unit>
+</group>
+<group id="58">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:58" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="59">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:59" xml:space="preserve">
+<source xml:lang="en">Page 5</source>
+<target xml:lang="fi">Page 5</target>
+</trans-unit>
+</group>
+<group id="60">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:60" xml:space="preserve">
+<source xml:lang="en">{1}{2>In case of &lt;2}{3>multiple language pairs&lt;3}{4>, this global report shows you the total project volume.&lt;4}</source>
+<target xml:lang="fi">{1}{2>In case of &lt;2}{3>multiple language pairs&lt;3}{4>, this global report shows you the total project volume.&lt;4}</target>
+</trans-unit>
+</group>
+<group id="61">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:61" xml:space="preserve">
+<source xml:lang="en">Supported browser, languages and formats</source>
+<target xml:lang="fi">Supported browser, languages and formats</target>
+</trans-unit>
+</group>
+<group id="62">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:62" xml:space="preserve">
+<source xml:lang="en">All you need to use to start working with MateCat is an up-to-date version of a supported web browser:</source>
+<target xml:lang="fi">All you need to use to start working with MateCat is an up-to-date version of a supported web browser:</target>
+</trans-unit>
+</group>
+<group id="63">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:63" xml:space="preserve">
+<source xml:lang="en">• {1>Google Chrome &lt;1}{2>30, or higher (on Windows, Linux and Mac OS X) &lt;2}• {3>Safari &lt;3}{4>5.1.7, or higher (on Mac OS X)&lt;4}</source>
+<target xml:lang="fi">• {1>Google Chrome &lt;1}{2>30, or higher (on Windows, Linux and Mac OS X) &lt;2}• {3>Safari &lt;3}{4>5.1.7, or higher (on Mac OS X)&lt;4}</target>
+</trans-unit>
+</group>
+<group id="64">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:64" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="65">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:65" xml:space="preserve">
+<source xml:lang="en">Page 6</source>
+<target xml:lang="fi">Page 6</target>
+</trans-unit>
+</group>
+<group id="66">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:66" xml:space="preserve">
+<source xml:lang="en">MateCat supports {1>79 languages, &lt;1}works with many language combinations, and supports {2>56 file formats&lt;2}.</source>
+<target xml:lang="fi">MateCat supports {1>79 languages, &lt;1}works with many language combinations, and supports {2>56 file formats&lt;2}.</target>
+</trans-unit>
+</group>
+<group id="67">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:67" xml:space="preserve">
+<source xml:lang="en">Here is the list of supported languages and file formats:</source>
+<target xml:lang="fi">Here is the list of supported languages and file formats:</target>
+</trans-unit>
+</group>
+<group id="68">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:68" xml:space="preserve">
+<source xml:lang="en">Supported languages</source>
+<target xml:lang="fi">Supported languages</target>
+</trans-unit>
+</group>
+<group id="69">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:69" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="70">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:70" xml:space="preserve">
+<source xml:lang="en">Page 7</source>
+<target xml:lang="fi">Page 7</target>
+</trans-unit>
+</group>
+<group id="71">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:71" xml:space="preserve">
+<source xml:lang="en">Supported file formats</source>
+<target xml:lang="fi">Supported file formats</target>
+</trans-unit>
+</group>
+<group id="72">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:72" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="73">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:73" xml:space="preserve">
+<source xml:lang="en">Page 8</source>
+<target xml:lang="fi">Page 8</target>
+</trans-unit>
+</group>
+<group id="74">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:74" xml:space="preserve">
+<source xml:lang="en">Translation Process</source>
+<target xml:lang="fi">Translation Process</target>
+</trans-unit>
+</group>
+<group id="75">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:75" xml:space="preserve">
+<source xml:lang="en">The translation process is divided into the following phases:</source>
+<target xml:lang="fi">The translation process is divided into the following phases:</target>
+</trans-unit>
+</group>
+<group id="76">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:76" xml:space="preserve">
+<source xml:lang="en">1.</source>
+<target xml:lang="fi">1.</target>
+</trans-unit>
+</group>
+<group id="77">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:77" xml:space="preserve">
+<source xml:lang="en">{1>Creating a project&lt;1}: from the MateCat home page {2>{3>(&lt;3}{4>http://www.matecat.com)&lt;4}&lt;2} you can select the {5>source and target language(s) &lt;5}and add the file(s) to translate.</source>
+<target xml:lang="fi">{1>Creating a project&lt;1}: from the MateCat home page {2>{3>(&lt;3}{4>http://www.matecat.com)&lt;4}&lt;2} you can select the {5>source and target language(s) &lt;5}and add the file(s) to translate.</target>
+</trans-unit>
+</group>
+<group id="78">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:78" xml:space="preserve">
+<source xml:lang="en">Then you can choose one of the following options:</source>
+<target xml:lang="fi">Then you can choose one of the following options:</target>
+</trans-unit>
+</group>
+<group id="79">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:79" xml:space="preserve">
+<source xml:lang="en">{1>o&lt;1}use a {2>machine translation server&lt;2}{3> of your choice.&lt;3}</source>
+<target xml:lang="fi">{1>o&lt;1}use a {2>machine translation server&lt;2}{3> of your choice.&lt;3}</target>
+</trans-unit>
+</group>
+<group id="80">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:80" xml:space="preserve">
+<source xml:lang="en">{3>This option allows you to receive &lt;3}{4>machine translation suggestions &lt;4}for each segment from the server you choose.</source>
+<target xml:lang="fi">{3>This option allows you to receive &lt;3}{4>machine translation suggestions &lt;4}for each segment from the server you choose.</target>
+</trans-unit>
+</group>
+<group id="81">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:81" xml:space="preserve">
+<source xml:lang="en">You can disable this option by selecting {5>NONE &lt;5}{6>from the dropdown menu.&lt;6}</source>
+<target xml:lang="fi">You can disable this option by selecting {5>NONE &lt;5}{6>from the dropdown menu.&lt;6}</target>
+</trans-unit>
+</group>
+<group id="82">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:82" xml:space="preserve">
+<source xml:lang="en">o associate an existing or new {1>private TM&lt;1}.</source>
+<target xml:lang="fi">o associate an existing or new {1>private TM&lt;1}.</target>
+</trans-unit>
+</group>
+<group id="83">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:83" xml:space="preserve">
+<source xml:lang="en">By associating a private TM, you will be able to store all the translated segments in this private translation memory and {2>add new glossary items&lt;2}{3> if necessary.&lt;3}</source>
+<target xml:lang="fi">By associating a private TM, you will be able to store all the translated segments in this private translation memory and {2>add new glossary items&lt;2}{3> if necessary.&lt;3}</target>
+</trans-unit>
+</group>
+<group id="84">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:84" xml:space="preserve">
+<source xml:lang="en">{3>In this way, you will be able use this private TM for future projects and take advantage of already translated segments.&lt;3}</source>
+<target xml:lang="fi">{3>In this way, you will be able use this private TM for future projects and take advantage of already translated segments.&lt;3}</target>
+</trans-unit>
+</group>
+<group id="85">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:85" xml:space="preserve">
+<source xml:lang="en">o do {1>without any private TM&lt;1}.</source>
+<target xml:lang="fi">o do {1>without any private TM&lt;1}.</target>
+</trans-unit>
+</group>
+<group id="86">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:86" xml:space="preserve">
+<source xml:lang="en">In this way, you will receive suggestions and store your translation in a {2>public TM exclusively for MateCat users&lt;2}{3>.&lt;3}</source>
+<target xml:lang="fi">In this way, you will receive suggestions and store your translation in a {2>public TM exclusively for MateCat users&lt;2}{3>.&lt;3}</target>
+</trans-unit>
+</group>
+<group id="87">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:87" xml:space="preserve">
+<source xml:lang="en">If you choose to receive suggestions from both the MT and the TM, you can receive from 10 to 20% more matches for all your translations.</source>
+<target xml:lang="fi">If you choose to receive suggestions from both the MT and the TM, you can receive from 10 to 20% more matches for all your translations.</target>
+</trans-unit>
+</group>
+<group id="88">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:88" xml:space="preserve">
+<source xml:lang="en">This can increase your productivity and enable you to work more quickly.</source>
+<target xml:lang="fi">This can increase your productivity and enable you to work more quickly.</target>
+</trans-unit>
+</group>
+<group id="89">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:89" xml:space="preserve">
+<source xml:lang="en">2.</source>
+<target xml:lang="fi">2.</target>
+</trans-unit>
+</group>
+<group id="90">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:90" xml:space="preserve">
+<source xml:lang="en">{1>Translating&lt;1}: the {2>Translation Editor&lt;2}{3> window shows the translation interface.&lt;3}</source>
+<target xml:lang="fi">{1>Translating&lt;1}: the {2>Translation Editor&lt;2}{3> window shows the translation interface.&lt;3}</target>
+</trans-unit>
+</group>
+<group id="91">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:91" xml:space="preserve">
+<source xml:lang="en">{3>It has 2 columns: source text in the left column and translated text in the right column.&lt;3}</source>
+<target xml:lang="fi">{3>It has 2 columns: source text in the left column and translated text in the right column.&lt;3}</target>
+</trans-unit>
+</group>
+<group id="92">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:92" xml:space="preserve">
+<source xml:lang="en">{3>When you open a segment during your translation, MateCat searches for &lt;3}{4>matches from translation memories&lt;4}{5>2 &lt;5}{6>and from machine translations&lt;6}, if</source>
+<target xml:lang="fi">{3>When you open a segment during your translation, MateCat searches for &lt;3}{4>matches from translation memories&lt;4}{5>2 &lt;5}{6>and from machine translations&lt;6}, if</target>
+</trans-unit>
+</group>
+<group id="93">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:93" xml:space="preserve">
+<source xml:lang="en">2 {1>Both your private TM, if any, and the public shared translation memory.&lt;1}</source>
+<target xml:lang="fi">2 {1>Both your private TM, if any, and the public shared translation memory.&lt;1}</target>
+</trans-unit>
+</group>
+<group id="94">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:94" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="95">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:95" xml:space="preserve">
+<source xml:lang="en">Page 9</source>
+<target xml:lang="fi">Page 9</target>
+</trans-unit>
+</group>
+<group id="96">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:96" xml:space="preserve">
+<source xml:lang="en">enabled.</source>
+<target xml:lang="fi">enabled.</target>
+</trans-unit>
+</group>
+<group id="97">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:97" xml:space="preserve">
+<source xml:lang="en">During the translation, MateCat also automatically performs some {1>quality checks&lt;1}{2> on Tag mismatches, Tag order mismatches, Whitespace mismatches and translation conflicts.&lt;2}</source>
+<target xml:lang="fi">During the translation, MateCat also automatically performs some {1>quality checks&lt;1}{2> on Tag mismatches, Tag order mismatches, Whitespace mismatches and translation conflicts.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="98">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:98" xml:space="preserve">
+<source xml:lang="en">3.</source>
+<target xml:lang="fi">3.</target>
+</trans-unit>
+</group>
+<group id="99">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:99" xml:space="preserve">
+<source xml:lang="en">{1>Finalising a project&lt;1}:</source>
+<target xml:lang="fi">{1>Finalising a project&lt;1}:</target>
+</trans-unit>
+</group>
+<group id="100">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:100" xml:space="preserve">
+<source xml:lang="en">A {2>progress bar&lt;2} at the bottom of the Translation Editor window shows the progress of your translation.</source>
+<target xml:lang="fi">A {2>progress bar&lt;2} at the bottom of the Translation Editor window shows the progress of your translation.</target>
+</trans-unit>
+</group>
+<group id="101">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:101" xml:space="preserve">
+<source xml:lang="en">The translation is finished when the progress bar is at {3>100% complete&lt;3}, when there are no {4>To-do &lt;4}words</source>
+<target xml:lang="fi">The translation is finished when the progress bar is at {3>100% complete&lt;3}, when there are no {4>To-do &lt;4}words</target>
+</trans-unit>
+</group>
+<group id="102">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:102" xml:space="preserve">
+<source xml:lang="en">{1}{2>left and when &lt;2}{3>no errors are reported in the QA module&lt;3}</source>
+<target xml:lang="fi">{1}{2>left and when &lt;2}{3>no errors are reported in the QA module&lt;3}</target>
+</trans-unit>
+</group>
+<group id="103">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:103" xml:space="preserve">
+<source xml:lang="en">{4>.&lt;4}</source>
+<target xml:lang="fi">{4>.&lt;4}</target>
+</trans-unit>
+</group>
+<group id="104">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:104" xml:space="preserve">
+<source xml:lang="en">{4>When the translation is complete and all issues have been fixed, you can click on the &lt;4}{5>Download translation &lt;5}{6>button to download the translated file in the original format.&lt;6}</source>
+<target xml:lang="fi">{4>When the translation is complete and all issues have been fixed, you can click on the &lt;4}{5>Download translation &lt;5}{6>button to download the translated file in the original format.&lt;6}</target>
+</trans-unit>
+</group>
+<group id="105">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:105" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="106">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:106" xml:space="preserve">
+<source xml:lang="en">Page 10</source>
+<target xml:lang="fi">Page 10</target>
+</trans-unit>
+</group>
+<group id="107">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:107" xml:space="preserve">
+<source xml:lang="en">Start working with MateCat</source>
+<target xml:lang="fi">Start working with MateCat</target>
+</trans-unit>
+</group>
+<group id="108">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:108" xml:space="preserve">
+<source xml:lang="en">MateCat Home Page and Login</source>
+<target xml:lang="fi">MateCat Home Page and Login</target>
+</trans-unit>
+</group>
+<group id="109">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:109" xml:space="preserve">
+<source xml:lang="en">There are currently two versions of the MateCat translation tool:</source>
+<target xml:lang="fi">There are currently two versions of the MateCat translation tool:</target>
+</trans-unit>
+</group>
+<group id="110">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:110" xml:space="preserve">
+<source xml:lang="en">• {1>http://demo.matecat&lt;1}{2>.com &lt;2}{3>– Open source version to translate XLIFF files.&lt;3}</source>
+<target xml:lang="fi">• {1>http://demo.matecat&lt;1}{2>.com &lt;2}{3>– Open source version to translate XLIFF files.&lt;3}</target>
+</trans-unit>
+</group>
+<group id="111">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:111" xml:space="preserve">
+<source xml:lang="en">{3>The user can also install and administer the open source version on his/her own server.&lt;3}</source>
+<target xml:lang="fi">{3>The user can also install and administer the open source version on his/her own server.&lt;3}</target>
+</trans-unit>
+</group>
+<group id="112">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:112" xml:space="preserve">
+<source xml:lang="en">{3>For further instructions and details, refer to the &lt;3}{4>{5>installation guide&lt;5}{6>.&lt;6}&lt;4}</source>
+<target xml:lang="fi">{3>For further instructions and details, refer to the &lt;3}{4>{5>installation guide&lt;5}{6>.&lt;6}&lt;4}</target>
+</trans-unit>
+</group>
+<group id="113">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:113" xml:space="preserve">
+<source xml:lang="en">{1>• &lt;1}{2>http://www.matecat.com &lt;2}– Proprietary version which includes filters for {3>56&lt;3} {4>file formats&lt;4}{5>.&lt;5}</source>
+<target xml:lang="fi">{1>• &lt;1}{2>http://www.matecat.com &lt;2}– Proprietary version which includes filters for {3>56&lt;3} {4>file formats&lt;4}{5>.&lt;5}</target>
+</trans-unit>
+</group>
+<group id="114">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:114" xml:space="preserve">
+<source xml:lang="en">{6>This is the version we use as a reference for this user manual.&lt;6}</source>
+<target xml:lang="fi">{6>This is the version we use as a reference for this user manual.&lt;6}</target>
+</trans-unit>
+</group>
+<group id="115">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:115" xml:space="preserve">
+<source xml:lang="en">This version of MateCat is free for both personal and business translation jobs.</source>
+<target xml:lang="fi">This version of MateCat is free for both personal and business translation jobs.</target>
+</trans-unit>
+</group>
+<group id="116">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:116" xml:space="preserve">
+<source xml:lang="en">{1>In order to store and recover your projects in MateCat, you should &lt;1}{2>log in &lt;2}by clicking on the {3>login &lt;3}button at the bottom of the MateCat home page.</source>
+<target xml:lang="fi">{1>In order to store and recover your projects in MateCat, you should &lt;1}{2>log in &lt;2}by clicking on the {3>login &lt;3}button at the bottom of the MateCat home page.</target>
+</trans-unit>
+</group>
+<group id="117">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:117" xml:space="preserve">
+<source xml:lang="en">You will be asked to sign in using your {4>Google account&lt;4}.</source>
+<target xml:lang="fi">You will be asked to sign in using your {4>Google account&lt;4}.</target>
+</trans-unit>
+</group>
+<group id="118">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:118" xml:space="preserve">
+<source xml:lang="en">Creating Projects</source>
+<target xml:lang="fi">Creating Projects</target>
+</trans-unit>
+</group>
+<group id="119">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:119" xml:space="preserve">
+<source xml:lang="en">{1>In MateCat, translation jobs are organised into &lt;1}{2>projects&lt;2}.</source>
+<target xml:lang="fi">{1>In MateCat, translation jobs are organised into &lt;1}{2>projects&lt;2}.</target>
+</trans-unit>
+</group>
+<group id="120">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:120" xml:space="preserve">
+<source xml:lang="en">A project is made up of one or more translation {3>jobs &lt;3}and each one is associated with a unique {4>job URL.&lt;4}</source>
+<target xml:lang="fi">A project is made up of one or more translation {3>jobs &lt;3}and each one is associated with a unique {4>job URL.&lt;4}</target>
+</trans-unit>
+</group>
+<group id="121">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:121" xml:space="preserve">
+<source xml:lang="en">Each project can be created with one source language and {5>one or more target languages&lt;5}.</source>
+<target xml:lang="fi">Each project can be created with one source language and {5>one or more target languages&lt;5}.</target>
+</trans-unit>
+</group>
+<group id="122">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:122" xml:space="preserve">
+<source xml:lang="en">{1>To create a new project in MateCat, visit &lt;1}{2>{u>http://www.matecat.com&lt;u}&lt;2}</source>
+<target xml:lang="fi">{1>To create a new project in MateCat, visit &lt;1}{2>{u>http://www.matecat.com&lt;u}&lt;2}</target>
+</trans-unit>
+</group>
+<group id="123">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:123" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="124">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:124" xml:space="preserve">
+<source xml:lang="en">Page 11</source>
+<target xml:lang="fi">Page 11</target>
+</trans-unit>
+</group>
+<group id="125">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:125" xml:space="preserve">
+<source xml:lang="en">All you need to do is select the language combination and upload the file(s) to translate.</source>
+<target xml:lang="fi">All you need to do is select the language combination and upload the file(s) to translate.</target>
+</trans-unit>
+</group>
+<group id="126">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:126" xml:space="preserve">
+<source xml:lang="en">This is necessary to create your project.</source>
+<target xml:lang="fi">This is necessary to create your project.</target>
+</trans-unit>
+</group>
+<group id="127">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:127" xml:space="preserve">
+<source xml:lang="en">By clicking on {1>Options&lt;1}{2>, you can add options or change preferential options.&lt;2}</source>
+<target xml:lang="fi">By clicking on {1>Options&lt;1}{2>, you can add options or change preferential options.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="128">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:128" xml:space="preserve">
+<source xml:lang="en">If you need to store your project and recover it later, you should firstly {1>log in&lt;1}{2> using the &lt;2}{3>Login &lt;3}{4>button at the bottom of the page.&lt;4}</source>
+<target xml:lang="fi">If you need to store your project and recover it later, you should firstly {1>log in&lt;1}{2> using the &lt;2}{3>Login &lt;3}{4>button at the bottom of the page.&lt;4}</target>
+</trans-unit>
+</group>
+<group id="129">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:129" xml:space="preserve">
+<source xml:lang="en">{4>This allows you to add all your projects to your Management Panel, recover all information about projects, such as the &lt;4}{5>volume analysis&lt;5}{6> or job URL, and check the progress of translations.&lt;6}</source>
+<target xml:lang="fi">{4>This allows you to add all your projects to your Management Panel, recover all information about projects, such as the &lt;4}{5>volume analysis&lt;5}{6> or job URL, and check the progress of translations.&lt;6}</target>
+</trans-unit>
+</group>
+<group id="130">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:130" xml:space="preserve">
+<source xml:lang="en">{1}Note: it is not possible to work on MateCat offline.</source>
+<target xml:lang="fi">{1}Note: it is not possible to work on MateCat offline.</target>
+</trans-unit>
+</group>
+<group id="131">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:131" xml:space="preserve">
+<source xml:lang="en">You can only save your translation and receive suggestions from the MT(s) and TM(s) if you work online.</source>
+<target xml:lang="fi">You can only save your translation and receive suggestions from the MT(s) and TM(s) if you work online.</target>
+</trans-unit>
+</group>
+<group id="132">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:132" xml:space="preserve">
+<source xml:lang="en">How To Upload File(s) for Translation</source>
+<target xml:lang="fi">How To Upload File(s) for Translation</target>
+</trans-unit>
+</group>
+<group id="133">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:133" xml:space="preserve">
+<source xml:lang="en">Always remember to choose the {1>language combination(s) &lt;1}{2>of your project before uploading the file(s) to translate, otherwise you will be asked to upload the file(s) again and the following message will be displayed:&lt;2}</source>
+<target xml:lang="fi">Always remember to choose the {1>language combination(s) &lt;1}{2>of your project before uploading the file(s) to translate, otherwise you will be asked to upload the file(s) again and the following message will be displayed:&lt;2}</target>
+</trans-unit>
+</group>
+<group id="134">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:134" xml:space="preserve">
+<source xml:lang="en">{1}{2>If you need to select &lt;2}{3>more than one target language&lt;3}{4>, please use the &lt;4}{5>Multiple languages?&lt;5}{6> link.&lt;6}</source>
+<target xml:lang="fi">{1}{2>If you need to select &lt;2}{3>more than one target language&lt;3}{4>, please use the &lt;4}{5>Multiple languages?&lt;5}{6> link.&lt;6}</target>
+</trans-unit>
+</group>
+<group id="135">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:135" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="136">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:136" xml:space="preserve">
+<source xml:lang="en">Page 12</source>
+<target xml:lang="fi">Page 12</target>
+</trans-unit>
+</group>
+<group id="137">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:137" xml:space="preserve">
+<source xml:lang="en">{1}{2>A box with the list of all &lt;2}{3>supported languages&lt;3}{4> will be displayed.&lt;4}</source>
+<target xml:lang="fi">{1}{2>A box with the list of all &lt;2}{3>supported languages&lt;3}{4> will be displayed.&lt;4}</target>
+</trans-unit>
+</group>
+<group id="138">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:138" xml:space="preserve">
+<source xml:lang="en">{4>Check the boxes of all languages you need to translate into, as shown in the screenshot below:&lt;4}</source>
+<target xml:lang="fi">{4>Check the boxes of all languages you need to translate into, as shown in the screenshot below:&lt;4}</target>
+</trans-unit>
+</group>
+<group id="139">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:139" xml:space="preserve">
+<source xml:lang="en">In order to upload the file(s) for translation you can:</source>
+<target xml:lang="fi">In order to upload the file(s) for translation you can:</target>
+</trans-unit>
+</group>
+<group id="140">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:140" xml:space="preserve">
+<source xml:lang="en">{1>• &lt;1}directly {2>drag and drop &lt;2}them or</source>
+<target xml:lang="fi">{1>• &lt;1}directly {2>drag and drop &lt;2}them or</target>
+</trans-unit>
+</group>
+<group id="141">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:141" xml:space="preserve">
+<source xml:lang="en">{1>• &lt;1}{2>browse &lt;2}for them by clicking on the {3>+ Add files… &lt;3}button.</source>
+<target xml:lang="fi">{1>• &lt;1}{2>browse &lt;2}for them by clicking on the {3>+ Add files… &lt;3}button.</target>
+</trans-unit>
+</group>
+<group id="142">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:142" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="143">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:143" xml:space="preserve">
+<source xml:lang="en">Page 13</source>
+<target xml:lang="fi">Page 13</target>
+</trans-unit>
+</group>
+<group id="144">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:144" xml:space="preserve">
+<source xml:lang="en">{1}{2>MateCat automatically &lt;2}{3>checks the source language &lt;3}{4>of your documents to make sure that it matches the one you selected.&lt;4}</source>
+<target xml:lang="fi">{1}{2>MateCat automatically &lt;2}{3>checks the source language &lt;3}{4>of your documents to make sure that it matches the one you selected.&lt;4}</target>
+</trans-unit>
+</group>
+<group id="145">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:145" xml:space="preserve">
+<source xml:lang="en">{4>Otherwise, a warning message is displayed as in the screenshot below&lt;4}</source>
+<target xml:lang="fi">{4>Otherwise, a warning message is displayed as in the screenshot below&lt;4}</target>
+</trans-unit>
+</group>
+<group id="146">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:146" xml:space="preserve">
+<source xml:lang="en">{1>It also checks that the &lt;1}{2>private TM key&lt;2} you associated with your project is indeed {3>valid&lt;3}.</source>
+<target xml:lang="fi">{1>It also checks that the &lt;1}{2>private TM key&lt;2} you associated with your project is indeed {3>valid&lt;3}.</target>
+</trans-unit>
+</group>
+<group id="147">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:147" xml:space="preserve">
+<source xml:lang="en">You can use the {1>dustbin &lt;1}icon to delete a file from the list of files to translate or click on the {2>Clear all &lt;2}{3>button to delete all uploaded files from the list.&lt;3}</source>
+<target xml:lang="fi">You can use the {1>dustbin &lt;1}icon to delete a file from the list of files to translate or click on the {2>Clear all &lt;2}{3>button to delete all uploaded files from the list.&lt;3}</target>
+</trans-unit>
+</group>
+<group id="148">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:148" xml:space="preserve">
+<source xml:lang="en">Translation Memory and Machine Translation</source>
+<target xml:lang="fi">Translation Memory and Machine Translation</target>
+</trans-unit>
+</group>
+<group id="149">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:149" xml:space="preserve">
+<source xml:lang="en">Clicking on the {1>Options &lt;1}button on the MateCat home page opens a window, as in the screenshot below:</source>
+<target xml:lang="fi">Clicking on the {1>Options &lt;1}button on the MateCat home page opens a window, as in the screenshot below:</target>
+</trans-unit>
+</group>
+<group id="150">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:150" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="151">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:151" xml:space="preserve">
+<source xml:lang="en">Page 14</source>
+<target xml:lang="fi">Page 14</target>
+</trans-unit>
+</group>
+<group id="152">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:152" xml:space="preserve">
+<source xml:lang="en">{1>Here you can add and/or select &lt;1}{2>additional options &lt;2}to be added to the project you are creating.</source>
+<target xml:lang="fi">{1>Here you can add and/or select &lt;1}{2>additional options &lt;2}to be added to the project you are creating.</target>
+</trans-unit>
+</group>
+<group id="153">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:153" xml:space="preserve">
+<source xml:lang="en">For example, choose to get or not get machine translation suggestions from the MT server {3>MyMemory,&lt;3} or {4>add or create a private TM&lt;4}{5> for your project.&lt;5}</source>
+<target xml:lang="fi">For example, choose to get or not get machine translation suggestions from the MT server {3>MyMemory,&lt;3} or {4>add or create a private TM&lt;4}{5> for your project.&lt;5}</target>
+</trans-unit>
+</group>
+<group id="154">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:154" xml:space="preserve">
+<source xml:lang="en">{1}{2>For further details, refer to the &lt;2}{3>Translation Toolbox&lt;3}{4> section.&lt;4}</source>
+<target xml:lang="fi">{1}{2>For further details, refer to the &lt;2}{3>Translation Toolbox&lt;3}{4> section.&lt;4}</target>
+</trans-unit>
+</group>
+<group id="155">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:155" xml:space="preserve">
+<source xml:lang="en">Machine Translation Servers</source>
+<target xml:lang="fi">Machine Translation Servers</target>
+</trans-unit>
+</group>
+<group id="156">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:156" xml:space="preserve">
+<source xml:lang="en">In MateCat, the best option is to select {1>MyMemory &lt;1}{2>which uses a combination of Google Translate and Microsoft Translator to provide machine translation suggestions.&lt;2}</source>
+<target xml:lang="fi">In MateCat, the best option is to select {1>MyMemory &lt;1}{2>which uses a combination of Google Translate and Microsoft Translator to provide machine translation suggestions.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="157">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:157" xml:space="preserve">
+<source xml:lang="en">{2>You can also disable machine translation, by selecting &lt;2}{3>NONE &lt;3}{4>from the dropdown menu.&lt;4}</source>
+<target xml:lang="fi">{2>You can also disable machine translation, by selecting &lt;2}{3>NONE &lt;3}{4>from the dropdown menu.&lt;4}</target>
+</trans-unit>
+</group>
+<group id="158">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:158" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="159">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:159" xml:space="preserve">
+<source xml:lang="en">Page 15</source>
+<target xml:lang="fi">Page 15</target>
+</trans-unit>
+</group>
+<group id="160">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:160" xml:space="preserve">
+<source xml:lang="en">Analysis Report</source>
+<target xml:lang="fi">Analysis Report</target>
+</trans-unit>
+</group>
+<group id="161">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:161" xml:space="preserve">
+<source xml:lang="en">{1>During creation of the project, when all files have been uploaded and all information has been correctly set on the MateCat home page, the &lt;1}{2>Analyze &lt;2}button will be displayed.</source>
+<target xml:lang="fi">{1>During creation of the project, when all files have been uploaded and all information has been correctly set on the MateCat home page, the &lt;1}{2>Analyze &lt;2}button will be displayed.</target>
+</trans-unit>
+</group>
+<group id="162">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:162" xml:space="preserve">
+<source xml:lang="en">Click on the {3>Analyze &lt;3}button to start the analysis.</source>
+<target xml:lang="fi">Click on the {3>Analyze &lt;3}button to start the analysis.</target>
+</trans-unit>
+</group>
+<group id="163">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:163" xml:space="preserve">
+<source xml:lang="en">The analysis page will open.</source>
+<target xml:lang="fi">The analysis page will open.</target>
+</trans-unit>
+</group>
+<group id="164">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:164" xml:space="preserve">
+<source xml:lang="en">A progress bar shows you the progress on analyses of the files you uploaded for translation.</source>
+<target xml:lang="fi">A progress bar shows you the progress on analyses of the files you uploaded for translation.</target>
+</trans-unit>
+</group>
+<group id="165">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:165" xml:space="preserve">
+<source xml:lang="en">Once the analysis is completed, the volume analysis page displays the {1>Analysis report.&lt;1}</source>
+<target xml:lang="fi">Once the analysis is completed, the volume analysis page displays the {1>Analysis report.&lt;1}</target>
+</trans-unit>
+</group>
+<group id="166">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:166" xml:space="preserve">
+<source xml:lang="en">It contains information about the number of words ({2>Payable, Total, New, Repeated&lt;2}) for the entire project and for each file/job.</source>
+<target xml:lang="fi">It contains information about the number of words ({2>Payable, Total, New, Repeated&lt;2}) for the entire project and for each file/job.</target>
+</trans-unit>
+</group>
+<group id="167">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:167" xml:space="preserve">
+<source xml:lang="en">{1>Payable words &lt;1}are marked in green and calculated by multiplying the words for each match type by the {2>payable percentage&lt;2}:</source>
+<target xml:lang="fi">{1>Payable words &lt;1}are marked in green and calculated by multiplying the words for each match type by the {2>payable percentage&lt;2}:</target>
+</trans-unit>
+</group>
+<group id="168">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:168" xml:space="preserve">
+<source xml:lang="en">{i>(1,903*0.3) + (112*0.6) + (144*0.3) + (9,493*0.85) = 8,750&lt;i}</source>
+<target xml:lang="fi">{i>(1,903*0.3) + (112*0.6) + (144*0.3) + (9,493*0.85) = 8,750&lt;i}</target>
+</trans-unit>
+</group>
+<group id="169">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:169" xml:space="preserve">
+<source xml:lang="en">Assume you obtain the following analysis result:</source>
+<target xml:lang="fi">Assume you obtain the following analysis result:</target>
+</trans-unit>
+</group>
+<group id="170">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:170" xml:space="preserve">
+<source xml:lang="en">In detail, we have the indication of:</source>
+<target xml:lang="fi">In detail, we have the indication of:</target>
+</trans-unit>
+</group>
+<group id="171">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:171" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="172">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:172" xml:space="preserve">
+<source xml:lang="en">Page 16</source>
+<target xml:lang="fi">Page 16</target>
+</trans-unit>
+</group>
+<group id="173">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:173" xml:space="preserve">
+<source xml:lang="en">{b>Payable words&lt;b}</source>
+<target xml:lang="fi">{b>Payable words&lt;b}</target>
+</trans-unit>
+</group>
+<group id="174">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:174" xml:space="preserve">
+<source xml:lang="en">Payable word count is the sum of the {1>weighted word count &lt;1}for each match type multiplied by its {2>payable rate percentage&lt;2}{3>.&lt;3}</source>
+<target xml:lang="fi">Payable word count is the sum of the {1>weighted word count &lt;1}for each match type multiplied by its {2>payable rate percentage&lt;2}{3>.&lt;3}</target>
+</trans-unit>
+</group>
+<group id="175">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:175" xml:space="preserve">
+<source xml:lang="en">{b>Total words&lt;b}</source>
+<target xml:lang="fi">{b>Total words&lt;b}</target>
+</trans-unit>
+</group>
+<group id="176">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:176" xml:space="preserve">
+<source xml:lang="en">The {1>total word count &lt;1}{2>without leveraging any content from translation memory matches, repetitions or machine translation.&lt;2}</source>
+<target xml:lang="fi">The {1>total word count &lt;1}{2>without leveraging any content from translation memory matches, repetitions or machine translation.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="177">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:177" xml:space="preserve">
+<source xml:lang="en">{2>This is similar to what Microsoft Word would give as a word count in a .doc or .docx file.&lt;2}</source>
+<target xml:lang="fi">{2>This is similar to what Microsoft Word would give as a word count in a .doc or .docx file.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="178">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:178" xml:space="preserve">
+<source xml:lang="en">{b>New words&lt;b}</source>
+<target xml:lang="fi">{b>New words&lt;b}</target>
+</trans-unit>
+</group>
+<group id="179">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:179" xml:space="preserve">
+<source xml:lang="en">All words found in segments that:</source>
+<target xml:lang="fi">All words found in segments that:</target>
+</trans-unit>
+</group>
+<group id="180">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:180" xml:space="preserve">
+<source xml:lang="en">• {1>do not match &lt;1}{2>any fuzzy or complete match in the private TM Key and/or in the public TM;&lt;2}</source>
+<target xml:lang="fi">• {1>do not match &lt;1}{2>any fuzzy or complete match in the private TM Key and/or in the public TM;&lt;2}</target>
+</trans-unit>
+</group>
+<group id="181">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:181" xml:space="preserve">
+<source xml:lang="en">• {1>are &lt;1}{2>not repeated &lt;2}{3>in the project;&lt;3}</source>
+<target xml:lang="fi">• {1>are &lt;1}{2>not repeated &lt;2}{3>in the project;&lt;3}</target>
+</trans-unit>
+</group>
+<group id="182">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:182" xml:space="preserve">
+<source xml:lang="en">• {1>do not have a suggestion &lt;1}{2>from a machine translation.&lt;2}</source>
+<target xml:lang="fi">• {1>do not have a suggestion &lt;1}{2>from a machine translation.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="183">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:183" xml:space="preserve">
+<source xml:lang="en">{b>Repetitions&lt;b}</source>
+<target xml:lang="fi">{b>Repetitions&lt;b}</target>
+</trans-unit>
+</group>
+<group id="184">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:184" xml:space="preserve">
+<source xml:lang="en">Number of words of {1>identical &lt;1}segments that occurs more than once throughout the project.</source>
+<target xml:lang="fi">Number of words of {1>identical &lt;1}segments that occurs more than once throughout the project.</target>
+</trans-unit>
+</group>
+<group id="185">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:185" xml:space="preserve">
+<source xml:lang="en">For example, imagine that we find the following segments in our translation:</source>
+<target xml:lang="fi">For example, imagine that we find the following segments in our translation:</target>
+</trans-unit>
+</group>
+<group id="186">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:186" xml:space="preserve">
+<source xml:lang="en">1.</source>
+<target xml:lang="fi">1.</target>
+</trans-unit>
+</group>
+<group id="187">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:187" xml:space="preserve">
+<source xml:lang="en">My house is blue 2.</source>
+<target xml:lang="fi">My house is blue 2.</target>
+</trans-unit>
+</group>
+<group id="188">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:188" xml:space="preserve">
+<source xml:lang="en">My house is blue 3.</source>
+<target xml:lang="fi">My house is blue 3.</target>
+</trans-unit>
+</group>
+<group id="189">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:189" xml:space="preserve">
+<source xml:lang="en">My house is red</source>
+<target xml:lang="fi">My house is red</target>
+</trans-unit>
+</group>
+<group id="190">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:190" xml:space="preserve">
+<source xml:lang="en">Segments 1 and 2 are {1>identical segments, &lt;1}so they are counted as 4 repetitions.</source>
+<target xml:lang="fi">Segments 1 and 2 are {1>identical segments, &lt;1}so they are counted as 4 repetitions.</target>
+</trans-unit>
+</group>
+<group id="191">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:191" xml:space="preserve">
+<source xml:lang="en">Segment 3 is counted as an {1>internal match&lt;1}.</source>
+<target xml:lang="fi">Segment 3 is counted as an {1>internal match&lt;1}.</target>
+</trans-unit>
+</group>
+<group id="192">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:192" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="193">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:193" xml:space="preserve">
+<source xml:lang="en">Page 17</source>
+<target xml:lang="fi">Page 17</target>
+</trans-unit>
+</group>
+<group id="194">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:194" xml:space="preserve">
+<source xml:lang="en">{b>Internal Matches&lt;b}</source>
+<target xml:lang="fi">{b>Internal Matches&lt;b}</target>
+</trans-unit>
+</group>
+<group id="195">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:195" xml:space="preserve">
+<source xml:lang="en">Internal matches are {1>similar segments &lt;1}{2>found in the document you are translating.&lt;2}</source>
+<target xml:lang="fi">Internal matches are {1>similar segments &lt;1}{2>found in the document you are translating.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="196">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:196" xml:space="preserve">
+<source xml:lang="en">{2>For example, imagine that we find the following segments in our translation:&lt;2}</source>
+<target xml:lang="fi">{2>For example, imagine that we find the following segments in our translation:&lt;2}</target>
+</trans-unit>
+</group>
+<group id="197">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:197" xml:space="preserve">
+<source xml:lang="en">1.</source>
+<target xml:lang="fi">1.</target>
+</trans-unit>
+</group>
+<group id="198">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:198" xml:space="preserve">
+<source xml:lang="en">My house is blue 2.</source>
+<target xml:lang="fi">My house is blue 2.</target>
+</trans-unit>
+</group>
+<group id="199">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:199" xml:space="preserve">
+<source xml:lang="en">My house is red</source>
+<target xml:lang="fi">My house is red</target>
+</trans-unit>
+</group>
+<group id="200">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:200" xml:space="preserve">
+<source xml:lang="en">MateCat recognises that segment 2 is similar to segment 1 (3 words out of 4 are identical) so the following would occur during translation:</source>
+<target xml:lang="fi">MateCat recognises that segment 2 is similar to segment 1 (3 words out of 4 are identical) so the following would occur during translation:</target>
+</trans-unit>
+</group>
+<group id="201">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:201" xml:space="preserve">
+<source xml:lang="en">1.</source>
+<target xml:lang="fi">1.</target>
+</trans-unit>
+</group>
+<group id="202">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:202" xml:space="preserve">
+<source xml:lang="en">You translate segment 1</source>
+<target xml:lang="fi">You translate segment 1</target>
+</trans-unit>
+</group>
+<group id="203">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:203" xml:space="preserve">
+<source xml:lang="en">2.</source>
+<target xml:lang="fi">2.</target>
+</trans-unit>
+</group>
+<group id="204">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:204" xml:space="preserve">
+<source xml:lang="en">The translation memory is {1>updated &lt;1}with this translation 3.</source>
+<target xml:lang="fi">The translation memory is {1>updated &lt;1}with this translation 3.</target>
+</trans-unit>
+</group>
+<group id="205">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:205" xml:space="preserve">
+<source xml:lang="en">You open segment 2 for translation</source>
+<target xml:lang="fi">You open segment 2 for translation</target>
+</trans-unit>
+</group>
+<group id="206">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:206" xml:space="preserve">
+<source xml:lang="en">4.</source>
+<target xml:lang="fi">4.</target>
+</trans-unit>
+</group>
+<group id="207">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:207" xml:space="preserve">
+<source xml:lang="en">A search is performed in the TM for segment 2 and a {1>75% fuzzy match &lt;1}is found.</source>
+<target xml:lang="fi">A search is performed in the TM for segment 2 and a {1>75% fuzzy match &lt;1}is found.</target>
+</trans-unit>
+</group>
+<group id="208">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:208" xml:space="preserve">
+<source xml:lang="en">MateCat therefore counts four new words for segment 1 but, because a 75% fuzzy match has been found in the TM, the four words in segment 2 are counted as {1>Internal Matches &lt;1}(in terms of weighted words, these are counted as 2.4, or 60% of 4).</source>
+<target xml:lang="fi">MateCat therefore counts four new words for segment 1 but, because a 75% fuzzy match has been found in the TM, the four words in segment 2 are counted as {1>Internal Matches &lt;1}(in terms of weighted words, these are counted as 2.4, or 60% of 4).</target>
+</trans-unit>
+</group>
+<group id="209">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:209" xml:space="preserve">
+<source xml:lang="en">{b>Partial TM&lt;b}</source>
+<target xml:lang="fi">{b>Partial TM&lt;b}</target>
+</trans-unit>
+</group>
+<group id="210">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:210" xml:space="preserve">
+<source xml:lang="en">In this case, similarity between the document to be translated and any {1>correspondences found in the translation memory &lt;1}{2>(fuzzy matches) are calculated.&lt;2}</source>
+<target xml:lang="fi">In this case, similarity between the document to be translated and any {1>correspondences found in the translation memory &lt;1}{2>(fuzzy matches) are calculated.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="211">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:211" xml:space="preserve">
+<source xml:lang="en">For example, imagine that we have following segments in an EN>FR translation:</source>
+<target xml:lang="fi">For example, imagine that we have following segments in an EN>FR translation:</target>
+</trans-unit>
+</group>
+<group id="212">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:212" xml:space="preserve">
+<source xml:lang="en">1.</source>
+<target xml:lang="fi">1.</target>
+</trans-unit>
+</group>
+<group id="213">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:213" xml:space="preserve">
+<source xml:lang="en">My house is blue 2.</source>
+<target xml:lang="fi">My house is blue 2.</target>
+</trans-unit>
+</group>
+<group id="214">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:214" xml:space="preserve">
+<source xml:lang="en">My house is red</source>
+<target xml:lang="fi">My house is red</target>
+</trans-unit>
+</group>
+<group id="215">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:215" xml:space="preserve">
+<source xml:lang="en">and that the TM contains this:</source>
+<target xml:lang="fi">and that the TM contains this:</target>
+</trans-unit>
+</group>
+<group id="216">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:216" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="217">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:217" xml:space="preserve">
+<source xml:lang="en">Page 18</source>
+<target xml:lang="fi">Page 18</target>
+</trans-unit>
+</group>
+<group id="218">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:218" xml:space="preserve">
+<source xml:lang="en">Source</source>
+<target xml:lang="fi">Source</target>
+</trans-unit>
+</group>
+<group id="219">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:219" xml:space="preserve">
+<source xml:lang="en">Target</source>
+<target xml:lang="fi">Target</target>
+</trans-unit>
+</group>
+<group id="220">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:220" xml:space="preserve">
+<source xml:lang="en">My house is blue</source>
+<target xml:lang="fi">My house is blue</target>
+</trans-unit>
+</group>
+<group id="221">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:221" xml:space="preserve">
+<source xml:lang="en">Ma maison est bleue</source>
+<target xml:lang="fi">Ma maison est bleue</target>
+</trans-unit>
+</group>
+<group id="222">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:222" xml:space="preserve">
+<source xml:lang="en">For segment 1 (“My house is blue”), there will be a {1>100% match &lt;1}in the translation memory.</source>
+<target xml:lang="fi">For segment 1 (“My house is blue”), there will be a {1>100% match &lt;1}in the translation memory.</target>
+</trans-unit>
+</group>
+<group id="223">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:223" xml:space="preserve">
+<source xml:lang="en">For segment 2 (“My house is red”), there will be a {2>75% fuzzy match &lt;2}(segment 2 and the segment found in the translation memory only differ in terms of the colour of the house: blue/red –bleue/rouge, so 1 word out of 4).</source>
+<target xml:lang="fi">For segment 2 (“My house is red”), there will be a {2>75% fuzzy match &lt;2}(segment 2 and the segment found in the translation memory only differ in terms of the colour of the house: blue/red –bleue/rouge, so 1 word out of 4).</target>
+</trans-unit>
+</group>
+<group id="224">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:224" xml:space="preserve">
+<source xml:lang="en">{b>100% TM&lt;b}</source>
+<target xml:lang="fi">{b>100% TM&lt;b}</target>
+</trans-unit>
+</group>
+<group id="225">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:225" xml:space="preserve">
+<source xml:lang="en">This is a 100% match between a segment in the source language found in the document to translate and an {1>identical sentence &lt;1}found in the source language in the translation memory.</source>
+<target xml:lang="fi">This is a 100% match between a segment in the source language found in the document to translate and an {1>identical sentence &lt;1}found in the source language in the translation memory.</target>
+</trans-unit>
+</group>
+<group id="226">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:226" xml:space="preserve">
+<source xml:lang="en">{b>100% TM in context&lt;b}</source>
+<target xml:lang="fi">{b>100% TM in context&lt;b}</target>
+</trans-unit>
+</group>
+<group id="227">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:227" xml:space="preserve">
+<source xml:lang="en">This is {1>more than a 100% match&lt;1}.</source>
+<target xml:lang="fi">This is {1>more than a 100% match&lt;1}.</target>
+</trans-unit>
+</group>
+<group id="228">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:228" xml:space="preserve">
+<source xml:lang="en">{1>If you have a 100% context match (the corresponding label is “&lt;1}{2>100% CM&lt;2}”), this means that both of the following {3>2 conditions &lt;3}exist:</source>
+<target xml:lang="fi">{1>If you have a 100% context match (the corresponding label is “&lt;1}{2>100% CM&lt;2}”), this means that both of the following {3>2 conditions &lt;3}exist:</target>
+</trans-unit>
+</group>
+<group id="229">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:229" xml:space="preserve">
+<source xml:lang="en">• {1>the segment in the document has a &lt;1}{2>100% match &lt;2}{3>in the translation memory&lt;3}</source>
+<target xml:lang="fi">• {1>the segment in the document has a &lt;1}{2>100% match &lt;2}{3>in the translation memory&lt;3}</target>
+</trans-unit>
+</group>
+<group id="230">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:230" xml:space="preserve">
+<source xml:lang="en">• {1>the segment in the document and the segment in the translation memory must both be &lt;1}{2>preceded by the same segment&lt;2}</source>
+<target xml:lang="fi">• {1>the segment in the document and the segment in the translation memory must both be &lt;1}{2>preceded by the same segment&lt;2}</target>
+</trans-unit>
+</group>
+<group id="231">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:231" xml:space="preserve">
+<source xml:lang="en">For example, if you have to translate the following segments in the same order:</source>
+<target xml:lang="fi">For example, if you have to translate the following segments in the same order:</target>
+</trans-unit>
+</group>
+<group id="232">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:232" xml:space="preserve">
+<source xml:lang="en">1.</source>
+<target xml:lang="fi">1.</target>
+</trans-unit>
+</group>
+<group id="233">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:233" xml:space="preserve">
+<source xml:lang="en">My house is blue 2.</source>
+<target xml:lang="fi">My house is blue 2.</target>
+</trans-unit>
+</group>
+<group id="234">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:234" xml:space="preserve">
+<source xml:lang="en">My house is red</source>
+<target xml:lang="fi">My house is red</target>
+</trans-unit>
+</group>
+<group id="235">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:235" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="236">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:236" xml:space="preserve">
+<source xml:lang="en">Page 19</source>
+<target xml:lang="fi">Page 19</target>
+</trans-unit>
+</group>
+<group id="237">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:237" xml:space="preserve">
+<source xml:lang="en">and you have a {1>100% match &lt;1}{2>in the translation memory for segment 2, you will actually receive a &lt;2}{3>100% CM &lt;3}{4>if segment 2 is also preceded by segment 1 in the translation memory.&lt;4}</source>
+<target xml:lang="fi">and you have a {1>100% match &lt;1}{2>in the translation memory for segment 2, you will actually receive a &lt;2}{3>100% CM &lt;3}{4>if segment 2 is also preceded by segment 1 in the translation memory.&lt;4}</target>
+</trans-unit>
+</group>
+<group id="238">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:238" xml:space="preserve">
+<source xml:lang="en">This means that you can be certain that the 100% match is correct according to the {1>context &lt;1}{2>of the document you are translating.&lt;2}</source>
+<target xml:lang="fi">This means that you can be certain that the 100% match is correct according to the {1>context &lt;1}{2>of the document you are translating.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="239">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:239" xml:space="preserve">
+<source xml:lang="en">Actually this does not mean that, in the list of segments in the translation memory, the segment in the translation memory is indeed preceded by the same segment as the one in the document.</source>
+<target xml:lang="fi">Actually this does not mean that, in the list of segments in the translation memory, the segment in the translation memory is indeed preceded by the same segment as the one in the document.</target>
+</trans-unit>
+</group>
+<group id="240">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:240" xml:space="preserve">
+<source xml:lang="en">What it means is that {1>context information is stored in the translation memory as metadata&lt;1}{2>, so each segment stored in the translation memory contains the following information (not visible in the translation memory contents by the users):&lt;2}</source>
+<target xml:lang="fi">What it means is that {1>context information is stored in the translation memory as metadata&lt;1}{2>, so each segment stored in the translation memory contains the following information (not visible in the translation memory contents by the users):&lt;2}</target>
+</trans-unit>
+</group>
+<group id="241">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:241" xml:space="preserve">
+<source xml:lang="en">• {1>the source segment&lt;1}</source>
+<target xml:lang="fi">• {1>the source segment&lt;1}</target>
+</trans-unit>
+</group>
+<group id="242">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:242" xml:space="preserve">
+<source xml:lang="en">• {1>the corresponding translation&lt;1}</source>
+<target xml:lang="fi">• {1>the corresponding translation&lt;1}</target>
+</trans-unit>
+</group>
+<group id="243">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:243" xml:space="preserve">
+<source xml:lang="en">• {1>the segment preceding the segment itself.&lt;1}</source>
+<target xml:lang="fi">• {1>the segment preceding the segment itself.&lt;1}</target>
+</trans-unit>
+</group>
+<group id="244">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:244" xml:space="preserve">
+<source xml:lang="en">Click on the {1>Translate &lt;1}button for each language pair to open the {2>Translation Editor&lt;2} {3>window&lt;3} and start translating.</source>
+<target xml:lang="fi">Click on the {1>Translate &lt;1}button for each language pair to open the {2>Translation Editor&lt;2} {3>window&lt;3} and start translating.</target>
+</trans-unit>
+</group>
+<group id="245">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:245" xml:space="preserve">
+<source xml:lang="en">If you need to outsource it for translation to someone else, you should just send the {4>job URL &lt;4}to your external resource.</source>
+<target xml:lang="fi">If you need to outsource it for translation to someone else, you should just send the {4>job URL &lt;4}to your external resource.</target>
+</trans-unit>
+</group>
+<group id="246">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:246" xml:space="preserve">
+<source xml:lang="en">The URL is all you need to start translating.</source>
+<target xml:lang="fi">The URL is all you need to start translating.</target>
+</trans-unit>
+</group>
+<group id="247">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:247" xml:space="preserve">
+<source xml:lang="en">Public Translation Memory and Translation Memory Key</source>
+<target xml:lang="fi">Public Translation Memory and Translation Memory Key</target>
+</trans-unit>
+</group>
+<group id="248">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:248" xml:space="preserve">
+<source xml:lang="en">When translating, your translations are saved as bilingual sentences in a so-called {1>translation memory (TM), &lt;1}{2>a sort of database containing bilingual segments (sentences, sets of words or single words already translated in one or more language pairs) which can be used during the translation of the same project or future projects.&lt;2}</source>
+<target xml:lang="fi">When translating, your translations are saved as bilingual sentences in a so-called {1>translation memory (TM), &lt;1}{2>a sort of database containing bilingual segments (sentences, sets of words or single words already translated in one or more language pairs) which can be used during the translation of the same project or future projects.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="249">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:249" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="250">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:250" xml:space="preserve">
+<source xml:lang="en">Page 20</source>
+<target xml:lang="fi">Page 20</target>
+</trans-unit>
+</group>
+<group id="251">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:251" xml:space="preserve">
+<source xml:lang="en">So, when translating, if you find a segment that is identical or similar to another one that has already been translated, the translation memory suggests the wording of the already translated segment so that you can use it, partially or entirely, for translation of the new segment.</source>
+<target xml:lang="fi">So, when translating, if you find a segment that is identical or similar to another one that has already been translated, the translation memory suggests the wording of the already translated segment so that you can use it, partially or entirely, for translation of the new segment.</target>
+</trans-unit>
+</group>
+<group id="252">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:252" xml:space="preserve">
+<source xml:lang="en">In MateCat, you can save and store your translations:</source>
+<target xml:lang="fi">In MateCat, you can save and store your translations:</target>
+</trans-unit>
+</group>
+<group id="253">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:253" xml:space="preserve">
+<source xml:lang="en">• {1>in a &lt;1}{2>generic public translation memory &lt;2}{3>which can be accessed via API by all MateCat users.&lt;3}</source>
+<target xml:lang="fi">• {1>in a &lt;1}{2>generic public translation memory &lt;2}{3>which can be accessed via API by all MateCat users.&lt;3}</target>
+</trans-unit>
+</group>
+<group id="254">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:254" xml:space="preserve">
+<source xml:lang="en">• {1>in a new or already existing &lt;1}{2>private TM assigned to one or more projects &lt;2}{3>or to a specific client that enables you to save your translation in a private translation memory that &lt;3}{4>cannot be accessed by external users.&lt;4}</source>
+<target xml:lang="fi">• {1>in a new or already existing &lt;1}{2>private TM assigned to one or more projects &lt;2}{3>or to a specific client that enables you to save your translation in a private translation memory that &lt;3}{4>cannot be accessed by external users.&lt;4}</target>
+</trans-unit>
+</group>
+<group id="255">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:255" xml:space="preserve">
+<source xml:lang="en">In MateCat, each private TM is identified by a unique alphanumeric value called {1>private TM Key.&lt;1}</source>
+<target xml:lang="fi">In MateCat, each private TM is identified by a unique alphanumeric value called {1>private TM Key.&lt;1}</target>
+</trans-unit>
+</group>
+<group id="256">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:256" xml:space="preserve">
+<source xml:lang="en">{2>It is the only value you need in order to associate your TM(s) with your project.&lt;2}</source>
+<target xml:lang="fi">{2>It is the only value you need in order to associate your TM(s) with your project.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="257">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:257" xml:space="preserve">
+<source xml:lang="en">{2>It is like a password to access your private TM in the MateCat Translation Memory server.&lt;2}</source>
+<target xml:lang="fi">{2>It is like a password to access your private TM in the MateCat Translation Memory server.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="258">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:258" xml:space="preserve">
+<source xml:lang="en">If you save your translations in the private TM, they will be stored in your private translation memory only and you alone have {1>exclusive &lt;1}{2>use of and access to your contributions to that private TM.&lt;2}</source>
+<target xml:lang="fi">If you save your translations in the private TM, they will be stored in your private translation memory only and you alone have {1>exclusive &lt;1}{2>use of and access to your contributions to that private TM.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="259">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:259" xml:space="preserve">
+<source xml:lang="en">{1>If you save your translations in the public TM, they can be viewed as suggestions by all MateCat users.&lt;1}</source>
+<target xml:lang="fi">{1>If you save your translations in the public TM, they can be viewed as suggestions by all MateCat users.&lt;1}</target>
+</trans-unit>
+</group>
+<group id="260">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:260" xml:space="preserve">
+<source xml:lang="en">{1>It would represent a &lt;1}{2>human contribution to a public TM &lt;2}and would help {3>other MateCat users &lt;3}during their translation jobs in MateCat.</source>
+<target xml:lang="fi">{1>It would represent a &lt;1}{2>human contribution to a public TM &lt;2}and would help {3>other MateCat users &lt;3}during their translation jobs in MateCat.</target>
+</trans-unit>
+</group>
+<group id="261">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:261" xml:space="preserve">
+<source xml:lang="en">TM backup and updates</source>
+<target xml:lang="fi">TM backup and updates</target>
+</trans-unit>
+</group>
+<group id="262">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:262" xml:space="preserve">
+<source xml:lang="en">Adding a private TM Key to your project means that the TM is {1>automatically updated during translation&lt;1}{2>, if previously set.&lt;2}</source>
+<target xml:lang="fi">Adding a private TM Key to your project means that the TM is {1>automatically updated during translation&lt;1}{2>, if previously set.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="263">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:263" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="264">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:264" xml:space="preserve">
+<source xml:lang="en">Page 21</source>
+<target xml:lang="fi">Page 21</target>
+</trans-unit>
+</group>
+<group id="265">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:265" xml:space="preserve">
+<source xml:lang="en">MateCat stores your TMs for you so that you do not need to {1>upload and download &lt;1}the translated segments each time you translate.</source>
+<target xml:lang="fi">MateCat stores your TMs for you so that you do not need to {1>upload and download &lt;1}the translated segments each time you translate.</target>
+</trans-unit>
+</group>
+<group id="266">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:266" xml:space="preserve">
+<source xml:lang="en">In this way, you have a {2>constant backup &lt;2}{3>of your translation memory and you can use it again in the future by just storing the private TM key and associating it with a new project, typing it in again if needed.&lt;3}{4>3&lt;4}</source>
+<target xml:lang="fi">In this way, you have a {2>constant backup &lt;2}{3>of your translation memory and you can use it again in the future by just storing the private TM key and associating it with a new project, typing it in again if needed.&lt;3}{4>3&lt;4}</target>
+</trans-unit>
+</group>
+<group id="267">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:267" xml:space="preserve">
+<source xml:lang="en">How to add a Glossary</source>
+<target xml:lang="fi">How to add a Glossary</target>
+</trans-unit>
+</group>
+<group id="268">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:268" xml:space="preserve">
+<source xml:lang="en">A glossary is a bilingual or multilingual database containing the translation of {1>terms&lt;1}{2>4 &lt;2}in a special subject, field or area of usage.</source>
+<target xml:lang="fi">A glossary is a bilingual or multilingual database containing the translation of {1>terms&lt;1}{2>4 &lt;2}in a special subject, field or area of usage.</target>
+</trans-unit>
+</group>
+<group id="269">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:269" xml:space="preserve">
+<source xml:lang="en">It is usually in Excel or CSV format and can help translators with the translations of {3>specific terms &lt;3}{4>that can be translated in several ways depending on the subject matter.&lt;4}</source>
+<target xml:lang="fi">It is usually in Excel or CSV format and can help translators with the translations of {3>specific terms &lt;3}{4>that can be translated in several ways depending on the subject matter.&lt;4}</target>
+</trans-unit>
+</group>
+</body>
+</file>
+</xliff>

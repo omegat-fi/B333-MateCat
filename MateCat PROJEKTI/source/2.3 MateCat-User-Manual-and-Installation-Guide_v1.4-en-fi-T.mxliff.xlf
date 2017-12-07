@@ -1,0 +1,2115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="MateCat-User-Manual-and-Installation-Guide_v1.4.docx" source-language="en" target-language="fi" datatype="x-undefined">
+<body>
+<group id="538">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:538" xml:space="preserve">
+<source xml:lang="en">{7>Do not copy and paste them from the source text.&lt;7}</source>
+<target xml:lang="fi">{7>Do not copy and paste them from the source text.&lt;7}</target>
+</trans-unit>
+</group>
+<group id="539">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:539" xml:space="preserve">
+<source xml:lang="en">o {1>Placeables and untranslatable text&lt;1}</source>
+<target xml:lang="fi">o {1>Placeables and untranslatable text&lt;1}</target>
+</trans-unit>
+</group>
+<group id="540">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:540" xml:space="preserve">
+<source xml:lang="en">Currently, we cannot manage placeables and untranslatable parts.</source>
+<target xml:lang="fi">Currently, we cannot manage placeables and untranslatable parts.</target>
+</trans-unit>
+</group>
+<group id="541">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:541" xml:space="preserve">
+<source xml:lang="en">We plan to develop such functionality in one of our next releases.</source>
+<target xml:lang="fi">We plan to develop such functionality in one of our next releases.</target>
+</trans-unit>
+</group>
+<group id="542">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:542" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="543">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:543" xml:space="preserve">
+<source xml:lang="en">Page 41</source>
+<target xml:lang="fi">Page 41</target>
+</trans-unit>
+</group>
+<group id="544">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:544" xml:space="preserve">
+<source xml:lang="en">Confirming a Segment</source>
+<target xml:lang="fi">Confirming a Segment</target>
+</trans-unit>
+</group>
+<group id="545">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:545" xml:space="preserve">
+<source xml:lang="en">Once your translation has been entered or the pre-translated segment edited, click on the {1>Translated &lt;1}{2>button to &lt;2}{3>confirm your translation and move to the next segment&lt;3}.</source>
+<target xml:lang="fi">Once your translation has been entered or the pre-translated segment edited, click on the {1>Translated &lt;1}{2>button to &lt;2}{3>confirm your translation and move to the next segment&lt;3}.</target>
+</trans-unit>
+</group>
+<group id="546">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:546" xml:space="preserve">
+<source xml:lang="en">Alternatively, you can use the {4>keyboard shortcut&lt;4}{5> Ctrl+Enter&lt;5}.</source>
+<target xml:lang="fi">Alternatively, you can use the {4>keyboard shortcut&lt;4}{5> Ctrl+Enter&lt;5}.</target>
+</trans-unit>
+</group>
+<group id="547">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:547" xml:space="preserve">
+<source xml:lang="en">{1>If you want to &lt;1}{2>confirm the translation of the current segment and go to the next untranslated segment&lt;2}, click on the {3>T+>> &lt;3}{4>button or use the keyboard shortcut &lt;4}{5>CTRL+SHIFT+Enter&lt;5}.</source>
+<target xml:lang="fi">{1>If you want to &lt;1}{2>confirm the translation of the current segment and go to the next untranslated segment&lt;2}, click on the {3>T+>> &lt;3}{4>button or use the keyboard shortcut &lt;4}{5>CTRL+SHIFT+Enter&lt;5}.</target>
+</trans-unit>
+</group>
+<group id="548">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:548" xml:space="preserve">
+<source xml:lang="en">The segment status bar colour will change from white to blue.</source>
+<target xml:lang="fi">The segment status bar colour will change from white to blue.</target>
+</trans-unit>
+</group>
+<group id="549">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:549" xml:space="preserve">
+<source xml:lang="en">In this way you {1>save the segment and update the translation memory&lt;1}.</source>
+<target xml:lang="fi">In this way you {1>save the segment and update the translation memory&lt;1}.</target>
+</trans-unit>
+</group>
+<group id="550">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:550" xml:space="preserve">
+<source xml:lang="en">If you do not click on the {2>Translated &lt;2}button, and move manually on to the next (or press CTRL+Down) or to the previous (or press CTRL+Up) segment, your translation will be saved in the file but {3>the translation memory will not be updated&lt;3}.</source>
+<target xml:lang="fi">If you do not click on the {2>Translated &lt;2}button, and move manually on to the next (or press CTRL+Down) or to the previous (or press CTRL+Up) segment, your translation will be saved in the file but {3>the translation memory will not be updated&lt;3}.</target>
+</trans-unit>
+</group>
+<group id="551">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:551" xml:space="preserve">
+<source xml:lang="en">The bar to the right of each segment indicates its {1>status &lt;1}using colours.</source>
+<target xml:lang="fi">The bar to the right of each segment indicates its {1>status &lt;1}using colours.</target>
+</trans-unit>
+</group>
+<group id="552">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:552" xml:space="preserve">
+<source xml:lang="en">Click on it to display the following options and to set/change the {2>status of a segment&lt;2}:</source>
+<target xml:lang="fi">Click on it to display the following options and to set/change the {2>status of a segment&lt;2}:</target>
+</trans-unit>
+</group>
+<group id="553">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:553" xml:space="preserve">
+<source xml:lang="en">Autopropagation</source>
+<target xml:lang="fi">Autopropagation</target>
+</trans-unit>
+</group>
+<group id="554">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:554" xml:space="preserve">
+<source xml:lang="en">When you approve a segment during translation, MateCat {1>automatically populates &lt;1}{2>your translation with &lt;2}{3>all segments having the same source &lt;3}within the same project.</source>
+<target xml:lang="fi">When you approve a segment during translation, MateCat {1>automatically populates &lt;1}{2>your translation with &lt;2}{3>all segments having the same source &lt;3}within the same project.</target>
+</trans-unit>
+</group>
+<group id="555">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:555" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="556">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:556" xml:space="preserve">
+<source xml:lang="en">Page 42</source>
+<target xml:lang="fi">Page 42</target>
+</trans-unit>
+</group>
+<group id="557">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:557" xml:space="preserve">
+<source xml:lang="en">They will be labelled as {1>AUTOPROPAGATED &lt;1}as shown in the screenshot below</source>
+<target xml:lang="fi">They will be labelled as {1>AUTOPROPAGATED &lt;1}as shown in the screenshot below</target>
+</trans-unit>
+</group>
+<group id="558">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:558" xml:space="preserve">
+<source xml:lang="en">Your translation {1>will appear in all segments having the same source &lt;1}but the status of the segments will remain “{2>untranslated&lt;2}“.</source>
+<target xml:lang="fi">Your translation {1>will appear in all segments having the same source &lt;1}but the status of the segments will remain “{2>untranslated&lt;2}“.</target>
+</trans-unit>
+</group>
+<group id="559">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:559" xml:space="preserve">
+<source xml:lang="en">You must approve them manually by clicking on the {3>Translated &lt;3}button (or use the CTRL+Enter shortcut).</source>
+<target xml:lang="fi">You must approve them manually by clicking on the {3>Translated &lt;3}button (or use the CTRL+Enter shortcut).</target>
+</trans-unit>
+</group>
+<group id="560">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:560" xml:space="preserve">
+<source xml:lang="en">Concordance Search</source>
+<target xml:lang="fi">Concordance Search</target>
+</trans-unit>
+</group>
+<group id="561">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:561" xml:space="preserve">
+<source xml:lang="en">Concordance searching allows you to search the translation memory, both public and private, if any, for a particular word, word sequence or phrase.</source>
+<target xml:lang="fi">Concordance searching allows you to search the translation memory, both public and private, if any, for a particular word, word sequence or phrase.</target>
+</trans-unit>
+</group>
+<group id="562">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:562" xml:space="preserve">
+<source xml:lang="en">The search will find and display all previously translated segments in the {1>private TM&lt;1} {2>Key&lt;2} associated with the project and in the public TM containing that word, those words or that phrase.</source>
+<target xml:lang="fi">The search will find and display all previously translated segments in the {1>private TM&lt;1} {2>Key&lt;2} associated with the project and in the public TM containing that word, those words or that phrase.</target>
+</trans-unit>
+</group>
+<group id="563">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:563" xml:space="preserve">
+<source xml:lang="en">You can perform a concordance search by entering or pasting the text to check in the Concordance tab on the {1>Translation Editor&lt;1} page.</source>
+<target xml:lang="fi">You can perform a concordance search by entering or pasting the text to check in the Concordance tab on the {1>Translation Editor&lt;1} page.</target>
+</trans-unit>
+</group>
+<group id="564">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:564" xml:space="preserve">
+<source xml:lang="en">Alternatively, you can select the words you would like to check and use the following {2>shortcuts&lt;2}{3> which will automatically open up the Concordance tab:&lt;3}</source>
+<target xml:lang="fi">Alternatively, you can select the words you would like to check and use the following {2>shortcuts&lt;2}{3> which will automatically open up the Concordance tab:&lt;3}</target>
+</trans-unit>
+</group>
+<group id="565">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:565" xml:space="preserve">
+<source xml:lang="en">• {1>on Mac OS X:&lt;1}</source>
+<target xml:lang="fi">• {1>on Mac OS X:&lt;1}</target>
+</trans-unit>
+</group>
+<group id="566">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:566" xml:space="preserve">
+<source xml:lang="en">{1>ALT+c &lt;1}• {2>on Windows:&lt;2}</source>
+<target xml:lang="fi">{1>ALT+c &lt;1}• {2>on Windows:&lt;2}</target>
+</trans-unit>
+</group>
+<group id="567">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:567" xml:space="preserve">
+<source xml:lang="en">{2>ALT+c&lt;2}</source>
+<target xml:lang="fi">{2>ALT+c&lt;2}</target>
+</trans-unit>
+</group>
+<group id="568">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:568" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="569">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:569" xml:space="preserve">
+<source xml:lang="en">Page 43</source>
+<target xml:lang="fi">Page 43</target>
+</trans-unit>
+</group>
+<group id="570">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:570" xml:space="preserve">
+<source xml:lang="en">The project contains one QA error.</source>
+<target xml:lang="fi">The project contains one QA error.</target>
+</trans-unit>
+</group>
+<group id="571">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:571" xml:space="preserve">
+<source xml:lang="en">Navigating through Files</source>
+<target xml:lang="fi">Navigating through Files</target>
+</trans-unit>
+</group>
+<group id="572">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:572" xml:space="preserve">
+<source xml:lang="en">{1>If you have uploaded &lt;1}{2>more than one file &lt;2}for translation {3>in the same project&lt;3}, you can {4>click on the job name at the top of the page to display a list of the files&lt;4}.</source>
+<target xml:lang="fi">{1>If you have uploaded &lt;1}{2>more than one file &lt;2}for translation {3>in the same project&lt;3}, you can {4>click on the job name at the top of the page to display a list of the files&lt;4}.</target>
+</trans-unit>
+</group>
+<group id="573">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:573" xml:space="preserve">
+<source xml:lang="en">Clicking on the file name, you will be redirected to the beginning of that file.</source>
+<target xml:lang="fi">Clicking on the file name, you will be redirected to the beginning of that file.</target>
+</trans-unit>
+</group>
+<group id="574">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:574" xml:space="preserve">
+<source xml:lang="en">Click on {1>Go to current segment &lt;1}to display the segment you are working on.</source>
+<target xml:lang="fi">Click on {1>Go to current segment &lt;1}to display the segment you are working on.</target>
+</trans-unit>
+</group>
+<group id="575">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:575" xml:space="preserve">
+<source xml:lang="en">QA Messages</source>
+<target xml:lang="fi">QA Messages</target>
+</trans-unit>
+</group>
+<group id="576">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:576" xml:space="preserve">
+<source xml:lang="en">At the top right of the MateCat window, you will see an icon which warns of any po-tential QA errors in the translation.</source>
+<target xml:lang="fi">At the top right of the MateCat window, you will see an icon which warns of any po-tential QA errors in the translation.</target>
+</trans-unit>
+</group>
+<group id="577">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:577" xml:space="preserve">
+<source xml:lang="en">The warning sign contains a red circle indicating how many errors have been found in the project.</source>
+<target xml:lang="fi">The warning sign contains a red circle indicating how many errors have been found in the project.</target>
+</trans-unit>
+</group>
+<group id="578">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:578" xml:space="preserve">
+<source xml:lang="en">None of these errors prevents you from downloading the translated file.</source>
+<target xml:lang="fi">None of these errors prevents you from downloading the translated file.</target>
+</trans-unit>
+</group>
+<group id="579">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:579" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="580">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:580" xml:space="preserve">
+<source xml:lang="en">Page 44</source>
+<target xml:lang="fi">Page 44</target>
+</trans-unit>
+</group>
+<group id="581">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:581" xml:space="preserve">
+<source xml:lang="en">Click on the icon to open the segment with the error.</source>
+<target xml:lang="fi">Click on the icon to open the segment with the error.</target>
+</trans-unit>
+</group>
+<group id="582">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:582" xml:space="preserve">
+<source xml:lang="en">A message indicates the nature of the error: tag mismatch and/or translation conflict.</source>
+<target xml:lang="fi">A message indicates the nature of the error: tag mismatch and/or translation conflict.</target>
+</trans-unit>
+</group>
+<group id="583">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:583" xml:space="preserve">
+<source xml:lang="en">o {1>Tag Mismatch&lt;1}</source>
+<target xml:lang="fi">o {1>Tag Mismatch&lt;1}</target>
+</trans-unit>
+</group>
+<group id="584">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:584" xml:space="preserve">
+<source xml:lang="en">The tag &lt;g id=“19”> in the source segment, indicated by the red arrow, {1>was not added to the target segment&lt;1}.</source>
+<target xml:lang="fi">The tag &lt;g id=“19”> in the source segment, indicated by the red arrow, {1>was not added to the target segment&lt;1}.</target>
+</trans-unit>
+</group>
+<group id="585">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:585" xml:space="preserve">
+<source xml:lang="en">This generated a tag mismatch.</source>
+<target xml:lang="fi">This generated a tag mismatch.</target>
+</trans-unit>
+</group>
+<group id="586">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:586" xml:space="preserve">
+<source xml:lang="en">In order to fix the error, you can:</source>
+<target xml:lang="fi">In order to fix the error, you can:</target>
+</trans-unit>
+</group>
+<group id="587">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:587" xml:space="preserve">
+<source xml:lang="en">{1}copy and paste the tag from the source segment to the target and place it in the same position as in the source</source>
+<target xml:lang="fi">{1}copy and paste the tag from the source segment to the target and place it in the same position as in the source</target>
+</trans-unit>
+</group>
+<group id="588">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:588" xml:space="preserve">
+<source xml:lang="en">{1}click on the tag in the source segment and drag and drop it to the target segment</source>
+<target xml:lang="fi">{1}click on the tag in the source segment and drag and drop it to the target segment</target>
+</trans-unit>
+</group>
+<group id="589">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:589" xml:space="preserve">
+<source xml:lang="en">{1}enter the symbol &lt; to display the list of the tags in the source text.</source>
+<target xml:lang="fi">{1}enter the symbol &lt; to display the list of the tags in the source text.</target>
+</trans-unit>
+</group>
+<group id="590">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:590" xml:space="preserve">
+<source xml:lang="en">Select the one you need and click {2>Enter &lt;2}to add it to your translation.</source>
+<target xml:lang="fi">Select the one you need and click {2>Enter &lt;2}to add it to your translation.</target>
+</trans-unit>
+</group>
+<group id="591">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:591" xml:space="preserve">
+<source xml:lang="en">{1>IMPORTANT NOTE&lt;1}:</source>
+<target xml:lang="fi">{1>IMPORTANT NOTE&lt;1}:</target>
+</trans-unit>
+</group>
+<group id="592">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:592" xml:space="preserve">
+<source xml:lang="en">If you don’t fix the tag mismatch error before clicking on the Preview or Download button in the top bar of the translation editor window, the strings “UNTRANSLATED_CONTENT” will appear in the segments where the error is present in the downloaded file(s).</source>
+<target xml:lang="fi">If you don’t fix the tag mismatch error before clicking on the Preview or Download button in the top bar of the translation editor window, the strings “UNTRANSLATED_CONTENT” will appear in the segments where the error is present in the downloaded file(s).</target>
+</trans-unit>
+</group>
+<group id="593">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:593" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="594">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:594" xml:space="preserve">
+<source xml:lang="en">Page 45</source>
+<target xml:lang="fi">Page 45</target>
+</trans-unit>
+</group>
+<group id="595">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:595" xml:space="preserve">
+<source xml:lang="en">o {1>Translation conflicts&lt;1}</source>
+<target xml:lang="fi">o {1>Translation conflicts&lt;1}</target>
+</trans-unit>
+</group>
+<group id="596">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:596" xml:space="preserve">
+<source xml:lang="en">MateCat warns the user when {1>two or more different translations are inserted for the same source segment in the same project&lt;1}.</source>
+<target xml:lang="fi">MateCat warns the user when {1>two or more different translations are inserted for the same source segment in the same project&lt;1}.</target>
+</trans-unit>
+</group>
+<group id="597">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:597" xml:space="preserve">
+<source xml:lang="en">MateCat uses {2>track changes &lt;2}to highlight the differences.</source>
+<target xml:lang="fi">MateCat uses {2>track changes &lt;2}to highlight the differences.</target>
+</trans-unit>
+</group>
+<group id="598">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:598" xml:space="preserve">
+<source xml:lang="en">To fix this error, choose one of the suggested matches or click on the {3>View &lt;3}button to check and correct the translations.</source>
+<target xml:lang="fi">To fix this error, choose one of the suggested matches or click on the {3>View &lt;3}button to check and correct the translations.</target>
+</trans-unit>
+</group>
+<group id="599">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:599" xml:space="preserve">
+<source xml:lang="en">………………………………………………………………………………………………….</source>
+<target xml:lang="fi">………………………………………………………………………………………………….</target>
+</trans-unit>
+</group>
+<group id="600">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:600" xml:space="preserve">
+<source xml:lang="en">The following two types of error messages will not appear in the warning sign.</source>
+<target xml:lang="fi">The following two types of error messages will not appear in the warning sign.</target>
+</trans-unit>
+</group>
+<group id="601">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:601" xml:space="preserve">
+<source xml:lang="en">They will be displayed at the segment level only.</source>
+<target xml:lang="fi">They will be displayed at the segment level only.</target>
+</trans-unit>
+</group>
+<group id="602">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:602" xml:space="preserve">
+<source xml:lang="en">o {1>Tag Order Mismatch&lt;1}</source>
+<target xml:lang="fi">o {1>Tag Order Mismatch&lt;1}</target>
+</trans-unit>
+</group>
+<group id="603">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:603" xml:space="preserve">
+<source xml:lang="en">MateCat also displays a {1>warning &lt;1}when tags are not in the {2>same position &lt;2}as in the original segment.</source>
+<target xml:lang="fi">MateCat also displays a {1>warning &lt;1}when tags are not in the {2>same position &lt;2}as in the original segment.</target>
+</trans-unit>
+</group>
+<group id="604">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:604" xml:space="preserve">
+<source xml:lang="en">Tags in the wrong order will be coloured in pink.</source>
+<target xml:lang="fi">Tags in the wrong order will be coloured in pink.</target>
+</trans-unit>
+</group>
+<group id="605">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:605" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="606">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:606" xml:space="preserve">
+<source xml:lang="en">Page 46</source>
+<target xml:lang="fi">Page 46</target>
+</trans-unit>
+</group>
+<group id="607">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:607" xml:space="preserve">
+<source xml:lang="en">In the example above, tag &lt;g id=”24”> in the target segment is not in the same position as in the original.</source>
+<target xml:lang="fi">In the example above, tag &lt;g id=”24”> in the target segment is not in the same position as in the original.</target>
+</trans-unit>
+</group>
+<group id="608">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:608" xml:space="preserve">
+<source xml:lang="en">In order to fix the error, you can:</source>
+<target xml:lang="fi">In order to fix the error, you can:</target>
+</trans-unit>
+</group>
+<group id="609">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:609" xml:space="preserve">
+<source xml:lang="en">{1}click on the tag coloured in pink in the target segment and drag and drop it to the correct position in the phrase</source>
+<target xml:lang="fi">{1}click on the tag coloured in pink in the target segment and drag and drop it to the correct position in the phrase</target>
+</trans-unit>
+</group>
+<group id="610">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:610" xml:space="preserve">
+<source xml:lang="en">{1}enter the symbol &lt; in the tag’s correct position to display the list of the tags in the source text.</source>
+<target xml:lang="fi">{1}enter the symbol &lt; in the tag’s correct position to display the list of the tags in the source text.</target>
+</trans-unit>
+</group>
+<group id="611">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:611" xml:space="preserve">
+<source xml:lang="en">Select the one you need and click {2>Enter &lt;2}to add it to your translation.</source>
+<target xml:lang="fi">Select the one you need and click {2>Enter &lt;2}to add it to your translation.</target>
+</trans-unit>
+</group>
+<group id="612">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:612" xml:space="preserve">
+<source xml:lang="en">Then delete the tag in the wrong position.</source>
+<target xml:lang="fi">Then delete the tag in the wrong position.</target>
+</trans-unit>
+</group>
+<group id="613">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:613" xml:space="preserve">
+<source xml:lang="en">{1}copy and paste the tag from the source segment to the target and place it in the correct position.</source>
+<target xml:lang="fi">{1}copy and paste the tag from the source segment to the target and place it in the correct position.</target>
+</trans-unit>
+</group>
+<group id="614">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:614" xml:space="preserve">
+<source xml:lang="en">Then delete the tag in the wrong position.</source>
+<target xml:lang="fi">Then delete the tag in the wrong position.</target>
+</trans-unit>
+</group>
+<group id="615">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:615" xml:space="preserve">
+<source xml:lang="en">{1>IMPORTANT NOTE&lt;1}:</source>
+<target xml:lang="fi">{1>IMPORTANT NOTE&lt;1}:</target>
+</trans-unit>
+</group>
+<group id="616">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:616" xml:space="preserve">
+<source xml:lang="en">If you don’t fix the tag order mismatch error before clicking on the Preview or Download button in the top bar of the translation editor window, in most cases the translated document will still be created normally, but it’s possible that the original text will be displayed in the downloaded file instead of the translation.</source>
+<target xml:lang="fi">If you don’t fix the tag order mismatch error before clicking on the Preview or Download button in the top bar of the translation editor window, in most cases the translated document will still be created normally, but it’s possible that the original text will be displayed in the downloaded file instead of the translation.</target>
+</trans-unit>
+</group>
+<group id="617">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:617" xml:space="preserve">
+<source xml:lang="en">o {1>Whitespaces mismatch&lt;1}</source>
+<target xml:lang="fi">o {1>Whitespaces mismatch&lt;1}</target>
+</trans-unit>
+</group>
+<group id="618">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:618" xml:space="preserve">
+<source xml:lang="en">MateCat warns the user when {1>more or fewer spaces &lt;1}{2>are found in the target segment next to tags.&lt;2}</source>
+<target xml:lang="fi">MateCat warns the user when {1>more or fewer spaces &lt;1}{2>are found in the target segment next to tags.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="619">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:619" xml:space="preserve">
+<source xml:lang="en">{2>In the image above, there are two extra whitespaces indicated by the red arrows.&lt;2}</source>
+<target xml:lang="fi">{2>In the image above, there are two extra whitespaces indicated by the red arrows.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="620">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:620" xml:space="preserve">
+<source xml:lang="en">{2>To fix the error, delete the extra spaces between the tags and the word.&lt;2}</source>
+<target xml:lang="fi">{2>To fix the error, delete the extra spaces between the tags and the word.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="621">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:621" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="622">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:622" xml:space="preserve">
+<source xml:lang="en">Page 47</source>
+<target xml:lang="fi">Page 47</target>
+</trans-unit>
+</group>
+<group id="623">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:623" xml:space="preserve">
+<source xml:lang="en">Spell-checking</source>
+<target xml:lang="fi">Spell-checking</target>
+</trans-unit>
+</group>
+<group id="624">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:624" xml:space="preserve">
+<source xml:lang="en">MateCat uses your browser’s spell-checker.</source>
+<target xml:lang="fi">MateCat uses your browser’s spell-checker.</target>
+</trans-unit>
+</group>
+<group id="625">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:625" xml:space="preserve">
+<source xml:lang="en">To enable the {1>Google Chrome spell-checker &lt;1}for your target language, follow these steps:</source>
+<target xml:lang="fi">To enable the {1>Google Chrome spell-checker &lt;1}for your target language, follow these steps:</target>
+</trans-unit>
+</group>
+<group id="626">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:626:0" xml:space="preserve">
+<source xml:lang="en">1.{j}Enter{j}the{j}following{j}string{j}in{j}the{j}Google{j}Chrome{j}address{j}bar: {1>chrome://settings/languages&lt;1}</source>
+<target xml:lang="fi">1.{j}Enter{j}the{j}following{j}string{j}in{j}the{j}Google{j}Chrome{j}address{j}bar: {1>chrome://settings/languages&lt;1}</target>
+</trans-unit>
+</group>
+<group id="627">
+</group>
+<group id="628">
+</group>
+<group id="629">
+</group>
+<group id="630">
+</group>
+<group id="631">
+</group>
+<group id="632">
+</group>
+<group id="633">
+</group>
+<group id="634">
+</group>
+<group id="635">
+</group>
+<group id="636">
+</group>
+<group id="637">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:637:0" xml:space="preserve">
+<source xml:lang="en">2.{j}Click on Add and add your {1>target language&lt;1};</source>
+<target xml:lang="fi">2.{j}Click on Add and add your {1>target language&lt;1};</target>
+</trans-unit>
+</group>
+<group id="638">
+</group>
+<group id="639">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:639:0" xml:space="preserve">
+<source xml:lang="en">3.{j}Select {1>Enable spell checking &lt;1}{2>in the dialogue window that opens.&lt;2}</source>
+<target xml:lang="fi">3.{j}Select {1>Enable spell checking &lt;1}{2>in the dialogue window that opens.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="640">
+</group>
+<group id="641">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:641" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="642">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:642" xml:space="preserve">
+<source xml:lang="en">Page 48</source>
+<target xml:lang="fi">Page 48</target>
+</trans-unit>
+</group>
+<group id="643">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:643" xml:space="preserve">
+<source xml:lang="en">Spell-checking enabled for US English</source>
+<target xml:lang="fi">Spell-checking enabled for US English</target>
+</trans-unit>
+</group>
+<group id="644">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:644" xml:space="preserve">
+<source xml:lang="en">To enable {1>Safari spell-checker &lt;1}for your target language, follow these steps:</source>
+<target xml:lang="fi">To enable {1>Safari spell-checker &lt;1}for your target language, follow these steps:</target>
+</trans-unit>
+</group>
+<group id="645">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:645" xml:space="preserve">
+<source xml:lang="en">• {1>Go to Safari>Edit>Spelling and Grammar &lt;1}• {2>Show spelling and Grammar&lt;2}</source>
+<target xml:lang="fi">• {1>Go to Safari>Edit>Spelling and Grammar &lt;1}• {2>Show spelling and Grammar&lt;2}</target>
+</trans-unit>
+</group>
+<group id="646">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:646" xml:space="preserve">
+<source xml:lang="en">• {1>Choose your language in the dropdown menu &lt;1}• {2>Click on change&lt;2}</source>
+<target xml:lang="fi">• {1>Choose your language in the dropdown menu &lt;1}• {2>Click on change&lt;2}</target>
+</trans-unit>
+</group>
+<group id="647">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:647" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="648">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:648" xml:space="preserve">
+<source xml:lang="en">Page 49</source>
+<target xml:lang="fi">Page 49</target>
+</trans-unit>
+</group>
+<group id="649">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:649" xml:space="preserve">
+<source xml:lang="en">Editing Log</source>
+<target xml:lang="fi">Editing Log</target>
+</trans-unit>
+</group>
+<group id="650">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:650" xml:space="preserve">
+<source xml:lang="en">You can access the Editing Log from the corresponding button at the bottom of the {1>Translation Editor&lt;1} page.</source>
+<target xml:lang="fi">You can access the Editing Log from the corresponding button at the bottom of the {1>Translation Editor&lt;1} page.</target>
+</trans-unit>
+</group>
+<group id="651">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:651" xml:space="preserve">
+<source xml:lang="en">The Editing Log contains {1>statistical information about the translation&lt;1}.</source>
+<target xml:lang="fi">The Editing Log contains {1>statistical information about the translation&lt;1}.</target>
+</trans-unit>
+</group>
+<group id="652">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:652" xml:space="preserve">
+<source xml:lang="en">In particular:</source>
+<target xml:lang="fi">In particular:</target>
+</trans-unit>
+</group>
+<group id="653">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:653" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="654">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:654" xml:space="preserve">
+<source xml:lang="en">Page 50</source>
+<target xml:lang="fi">Page 50</target>
+</trans-unit>
+</group>
+<group id="655">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:655" xml:space="preserve">
+<source xml:lang="en">{1}{2>• &lt;2}{3>under the Summary section you can find statistical information about the entire project:&lt;3}</source>
+<target xml:lang="fi">{1}{2>• &lt;2}{3>under the Summary section you can find statistical information about the entire project:&lt;3}</target>
+</trans-unit>
+</group>
+<group id="656">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:656" xml:space="preserve">
+<source xml:lang="en">{b>Words&lt;b}</source>
+<target xml:lang="fi">{b>Words&lt;b}</target>
+</trans-unit>
+</group>
+<group id="657">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:657" xml:space="preserve">
+<source xml:lang="en">Number of {1>translated words&lt;1}</source>
+<target xml:lang="fi">Number of {1>translated words&lt;1}</target>
+</trans-unit>
+</group>
+<group id="658">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:658" xml:space="preserve">
+<source xml:lang="en">{b>Avg Secs per Word&lt;b}</source>
+<target xml:lang="fi">{b>Avg Secs per Word&lt;b}</target>
+</trans-unit>
+</group>
+<group id="659">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:659" xml:space="preserve">
+<source xml:lang="en">{1>Average number of seconds &lt;1}you needed to translate each word</source>
+<target xml:lang="fi">{1>Average number of seconds &lt;1}you needed to translate each word</target>
+</trans-unit>
+</group>
+<group id="660">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:660" xml:space="preserve">
+<source xml:lang="en">{b>% of MT&lt;b}</source>
+<target xml:lang="fi">{b>% of MT&lt;b}</target>
+</trans-unit>
+</group>
+<group id="661">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:661:0:0:0" xml:space="preserve">
+<source xml:lang="en">Percentage{j}of{j}{1>Machine&lt;1}{j}{1>Translation suggestions&lt;1}</source>
+<target xml:lang="fi">Percentage{j}of{j}{1>Machine&lt;1}{j}{1>Translation suggestions&lt;1}</target>
+</trans-unit>
+</group>
+<group id="662">
+</group>
+<group id="663">
+</group>
+<group id="664">
+</group>
+<group id="665">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:665" xml:space="preserve">
+<source xml:lang="en">{b>% of TM&lt;b}</source>
+<target xml:lang="fi">{b>% of TM&lt;b}</target>
+</trans-unit>
+</group>
+<group id="666">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:666:0:0:0" xml:space="preserve">
+<source xml:lang="en">Percentage{j}of{j}{1>translation&lt;1}{j}{1>memory suggestions&lt;1}</source>
+<target xml:lang="fi">Percentage{j}of{j}{1>translation&lt;1}{j}{1>memory suggestions&lt;1}</target>
+</trans-unit>
+</group>
+<group id="667">
+</group>
+<group id="668">
+</group>
+<group id="669">
+</group>
+<group id="670">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:670" xml:space="preserve">
+<source xml:lang="en">{b>Total Time-to-edit&lt;b}</source>
+<target xml:lang="fi">{b>Total Time-to-edit&lt;b}</target>
+</trans-unit>
+</group>
+<group id="671">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:671" xml:space="preserve">
+<source xml:lang="en">{1>Total time &lt;1}necessary to complete the translation so far</source>
+<target xml:lang="fi">{1>Total time &lt;1}necessary to complete the translation so far</target>
+</trans-unit>
+</group>
+<group id="672">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:672" xml:space="preserve">
+<source xml:lang="en">{b>Avg PEE %&lt;b}</source>
+<target xml:lang="fi">{b>Avg PEE %&lt;b}</target>
+</trans-unit>
+</group>
+<group id="673">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:673" xml:space="preserve">
+<source xml:lang="en">{1>Average&lt;1}</source>
+<target xml:lang="fi">{1>Average&lt;1}</target>
+</trans-unit>
+</group>
+<group id="674">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:674" xml:space="preserve">
+<source xml:lang="en">{1>post-editing&lt;1}</source>
+<target xml:lang="fi">{1>post-editing&lt;1}</target>
+</trans-unit>
+</group>
+<group id="675">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:675" xml:space="preserve">
+<source xml:lang="en">{1>effort&lt;1}</source>
+<target xml:lang="fi">{1>effort&lt;1}</target>
+</trans-unit>
+</group>
+<group id="676">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:676:0" xml:space="preserve">
+<source xml:lang="en">as{j}a percentage.</source>
+<target xml:lang="fi">as{j}a percentage.</target>
+</trans-unit>
+</group>
+<group id="677">
+</group>
+<group id="678">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:678" xml:space="preserve">
+<source xml:lang="en">This indicates your efforts in updating            machine            translation suggestions</source>
+<target xml:lang="fi">This indicates your efforts in updating            machine            translation suggestions</target>
+</trans-unit>
+</group>
+<group id="679">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:679" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="680">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:680" xml:space="preserve">
+<source xml:lang="en">Page 51</source>
+<target xml:lang="fi">Page 51</target>
+</trans-unit>
+</group>
+<group id="681">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:681" xml:space="preserve">
+<source xml:lang="en">{b>% of words in too SLOW edits&lt;b}</source>
+<target xml:lang="fi">{b>% of words in too SLOW edits&lt;b}</target>
+</trans-unit>
+</group>
+<group id="682">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:682" xml:space="preserve">
+<source xml:lang="en">Percentage of words on which you spent {1>too much time &lt;1}{2>editing&lt;2}</source>
+<target xml:lang="fi">Percentage of words on which you spent {1>too much time &lt;1}{2>editing&lt;2}</target>
+</trans-unit>
+</group>
+<group id="683">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:683" xml:space="preserve">
+<source xml:lang="en">{b>% of words in too FAST edits&lt;b}</source>
+<target xml:lang="fi">{b>% of words in too FAST edits&lt;b}</target>
+</trans-unit>
+</group>
+<group id="684">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:684" xml:space="preserve">
+<source xml:lang="en">Percentage of words on which you spent {1>too little time &lt;1}{2>editing&lt;2}</source>
+<target xml:lang="fi">Percentage of words on which you spent {1>too little time &lt;1}{2>editing&lt;2}</target>
+</trans-unit>
+</group>
+<group id="685">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:685" xml:space="preserve">
+<source xml:lang="en">{1}Under the Editing details sections you can see all details per segment:</source>
+<target xml:lang="fi">{1}Under the Editing details sections you can see all details per segment:</target>
+</trans-unit>
+</group>
+<group id="686">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:686" xml:space="preserve">
+<source xml:lang="en">{b>Secs/Word&lt;b}</source>
+<target xml:lang="fi">{b>Secs/Word&lt;b}</target>
+</trans-unit>
+</group>
+<group id="687">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:687" xml:space="preserve">
+<source xml:lang="en">{1>Seconds spent per word &lt;1}in that segment</source>
+<target xml:lang="fi">{1>Seconds spent per word &lt;1}in that segment</target>
+</trans-unit>
+</group>
+<group id="688">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:688" xml:space="preserve">
+<source xml:lang="en">{b>Job ID&lt;b}</source>
+<target xml:lang="fi">{b>Job ID&lt;b}</target>
+</trans-unit>
+</group>
+<group id="689">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:689" xml:space="preserve">
+<source xml:lang="en">MateCat {1>job ID&lt;1}</source>
+<target xml:lang="fi">MateCat {1>job ID&lt;1}</target>
+</trans-unit>
+</group>
+<group id="690">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:690" xml:space="preserve">
+<source xml:lang="en">{b>Segment ID&lt;b}</source>
+<target xml:lang="fi">{b>Segment ID&lt;b}</target>
+</trans-unit>
+</group>
+<group id="691">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:691" xml:space="preserve">
+<source xml:lang="en">{1>ID of the segment&lt;1}.</source>
+<target xml:lang="fi">{1>ID of the segment&lt;1}.</target>
+</trans-unit>
+</group>
+<group id="692">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:692" xml:space="preserve">
+<source xml:lang="en">You can click on it to open the segment in the Translation Editor page.</source>
+<target xml:lang="fi">You can click on it to open the segment in the Translation Editor page.</target>
+</trans-unit>
+</group>
+<group id="693">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:693" xml:space="preserve">
+<source xml:lang="en">{b>Words&lt;b}</source>
+<target xml:lang="fi">{b>Words&lt;b}</target>
+</trans-unit>
+</group>
+<group id="694">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:694" xml:space="preserve">
+<source xml:lang="en">{1>Number of words &lt;1}in the segment</source>
+<target xml:lang="fi">{1>Number of words &lt;1}in the segment</target>
+</trans-unit>
+</group>
+<group id="695">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:695" xml:space="preserve">
+<source xml:lang="en">{b>Suggestion source&lt;b}</source>
+<target xml:lang="fi">{b>Suggestion source&lt;b}</target>
+</trans-unit>
+</group>
+<group id="696">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:696" xml:space="preserve">
+<source xml:lang="en">{1>Source &lt;1}of the first suggestion</source>
+<target xml:lang="fi">{1>Source &lt;1}of the first suggestion</target>
+</trans-unit>
+</group>
+<group id="697">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:697" xml:space="preserve">
+<source xml:lang="en">{b>Match percentage&lt;b}</source>
+<target xml:lang="fi">{b>Match percentage&lt;b}</target>
+</trans-unit>
+</group>
+<group id="698">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:698" xml:space="preserve">
+<source xml:lang="en">{1>Match&lt;1}</source>
+<target xml:lang="fi">{1>Match&lt;1}</target>
+</trans-unit>
+</group>
+<group id="699">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:699" xml:space="preserve">
+<source xml:lang="en">{1>percentage&lt;1}</source>
+<target xml:lang="fi">{1>percentage&lt;1}</target>
+</trans-unit>
+</group>
+<group id="700">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:700:0:0" xml:space="preserve">
+<source xml:lang="en">of{j}the{j}first</source>
+<target xml:lang="fi">of{j}the{j}first</target>
+</trans-unit>
+</group>
+<group id="701">
+</group>
+<group id="702">
+</group>
+<group id="703">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:703" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="704">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:704" xml:space="preserve">
+<source xml:lang="en">Page 52</source>
+<target xml:lang="fi">Page 52</target>
+</trans-unit>
+</group>
+<group id="705">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:705" xml:space="preserve">
+<source xml:lang="en">suggestion.</source>
+<target xml:lang="fi">suggestion.</target>
+</trans-unit>
+</group>
+<group id="706">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:706" xml:space="preserve">
+<source xml:lang="en">It is always 85% by default for Machine Translation suggestions</source>
+<target xml:lang="fi">It is always 85% by default for Machine Translation suggestions</target>
+</trans-unit>
+</group>
+<group id="707">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:707" xml:space="preserve">
+<source xml:lang="en">{b>Time-to-edit&lt;b}</source>
+<target xml:lang="fi">{b>Time-to-edit&lt;b}</target>
+</trans-unit>
+</group>
+<group id="708">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:708" xml:space="preserve">
+<source xml:lang="en">{1>Time necessary &lt;1}to edit the segment</source>
+<target xml:lang="fi">{1>Time necessary &lt;1}to edit the segment</target>
+</trans-unit>
+</group>
+<group id="709">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:709" xml:space="preserve">
+<source xml:lang="en">{b>PE Effort&lt;b}</source>
+<target xml:lang="fi">{b>PE Effort&lt;b}</target>
+</trans-unit>
+</group>
+<group id="710">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:710" xml:space="preserve">
+<source xml:lang="en">{1>Post-editing effort &lt;1}to edit the segment</source>
+<target xml:lang="fi">{1>Post-editing effort &lt;1}to edit the segment</target>
+</trans-unit>
+</group>
+<group id="711">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:711" xml:space="preserve">
+<source xml:lang="en">{b>Segment&lt;b}</source>
+<target xml:lang="fi">{b>Segment&lt;b}</target>
+</trans-unit>
+</group>
+<group id="712">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:712" xml:space="preserve">
+<source xml:lang="en">Original {1>source &lt;1}segment</source>
+<target xml:lang="fi">Original {1>source &lt;1}segment</target>
+</trans-unit>
+</group>
+<group id="713">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:713" xml:space="preserve">
+<source xml:lang="en">{b>Suggestion&lt;b}</source>
+<target xml:lang="fi">{b>Suggestion&lt;b}</target>
+</trans-unit>
+</group>
+<group id="714">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:714" xml:space="preserve">
+<source xml:lang="en">First MateCat {1>suggestion&lt;1}</source>
+<target xml:lang="fi">First MateCat {1>suggestion&lt;1}</target>
+</trans-unit>
+</group>
+<group id="715">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:715" xml:space="preserve">
+<source xml:lang="en">{b>Translation&lt;b}</source>
+<target xml:lang="fi">{b>Translation&lt;b}</target>
+</trans-unit>
+</group>
+<group id="716">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:716:0:0:0:0" xml:space="preserve">
+<source xml:lang="en">{1>Final&lt;1}{j}{1>translation&lt;1}{j}approved{j}by{j}the translator</source>
+<target xml:lang="fi">{1>Final&lt;1}{j}{1>translation&lt;1}{j}approved{j}by{j}the translator</target>
+</trans-unit>
+</group>
+<group id="717">
+</group>
+<group id="718">
+</group>
+<group id="719">
+</group>
+<group id="720">
+</group>
+<group id="721">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:721" xml:space="preserve">
+<source xml:lang="en">{b>Diff View&lt;b}</source>
+<target xml:lang="fi">{b>Diff View&lt;b}</target>
+</trans-unit>
+</group>
+<group id="722">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:722" xml:space="preserve">
+<source xml:lang="en">{1>Differences &lt;1}between first suggestion and</source>
+<target xml:lang="fi">{1>Differences &lt;1}between first suggestion and</target>
+</trans-unit>
+</group>
+<group id="723">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:723" xml:space="preserve">
+<source xml:lang="en">final</source>
+<target xml:lang="fi">final</target>
+</trans-unit>
+</group>
+<group id="724">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:724" xml:space="preserve">
+<source xml:lang="en">approved</source>
+<target xml:lang="fi">approved</target>
+</trans-unit>
+</group>
+<group id="725">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:725" xml:space="preserve">
+<source xml:lang="en">translation highlighted with track changes</source>
+<target xml:lang="fi">translation highlighted with track changes</target>
+</trans-unit>
+</group>
+<group id="726">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:726" xml:space="preserve">
+<source xml:lang="en">{1}The warning icon and orange borders indicate that you spent too much or too little time to edit the segment.</source>
+<target xml:lang="fi">{1}The warning icon and orange borders indicate that you spent too much or too little time to edit the segment.</target>
+</trans-unit>
+</group>
+<group id="727">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:727" xml:space="preserve">
+<source xml:lang="en">Finalising a Project</source>
+<target xml:lang="fi">Finalising a Project</target>
+</trans-unit>
+</group>
+<group id="728">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:728" xml:space="preserve">
+<source xml:lang="en">Once the translation is complete (100% on the progress bar), the {1>Preview &lt;1}{2>button at the top of the page is replaced by the &lt;2}{3>Download translation &lt;3}button.</source>
+<target xml:lang="fi">Once the translation is complete (100% on the progress bar), the {1>Preview &lt;1}{2>button at the top of the page is replaced by the &lt;2}{3>Download translation &lt;3}button.</target>
+</trans-unit>
+</group>
+<group id="729">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:729" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="730">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:730" xml:space="preserve">
+<source xml:lang="en">Page 53</source>
+<target xml:lang="fi">Page 53</target>
+</trans-unit>
+</group>
+<group id="731">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:731" xml:space="preserve">
+<source xml:lang="en">By clicking on the {1>Download Translation &lt;1}{2>button, you can download the translated text in the same format as the original file.&lt;2}</source>
+<target xml:lang="fi">By clicking on the {1>Download Translation &lt;1}{2>button, you can download the translated text in the same format as the original file.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="732">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:732" xml:space="preserve">
+<source xml:lang="en">{2>If the project contains more than one file, all will be downloaded as compressed in a zip folder.&lt;2}</source>
+<target xml:lang="fi">{2>If the project contains more than one file, all will be downloaded as compressed in a zip folder.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="733">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:733" xml:space="preserve">
+<source xml:lang="en">The text can be downloaded at any time during translation by clicking on the {1>Preview &lt;1}button.</source>
+<target xml:lang="fi">The text can be downloaded at any time during translation by clicking on the {1>Preview &lt;1}button.</target>
+</trans-unit>
+</group>
+<group id="734">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:734" xml:space="preserve">
+<source xml:lang="en">The portions of text not yet translated will be replaced by a machine translation.</source>
+<target xml:lang="fi">The portions of text not yet translated will be replaced by a machine translation.</target>
+</trans-unit>
+</group>
+<group id="735">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:735" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="736">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:736" xml:space="preserve">
+<source xml:lang="en">Page 54</source>
+<target xml:lang="fi">Page 54</target>
+</trans-unit>
+</group>
+<group id="737">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:737" xml:space="preserve">
+<source xml:lang="en">Managing Projects with MateCat</source>
+<target xml:lang="fi">Managing Projects with MateCat</target>
+</trans-unit>
+</group>
+<group id="738">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:738" xml:space="preserve">
+<source xml:lang="en">Management Panel</source>
+<target xml:lang="fi">Management Panel</target>
+</trans-unit>
+</group>
+<group id="739">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:739" xml:space="preserve">
+<source xml:lang="en">{1>When you create a project, you have the option of adding the project to your &lt;1}{2>Management Panel &lt;2}{3>by &lt;3}{4>logging in&lt;4} with your {5>Google account &lt;5}before creating it.</source>
+<target xml:lang="fi">{1>When you create a project, you have the option of adding the project to your &lt;1}{2>Management Panel &lt;2}{3>by &lt;3}{4>logging in&lt;4} with your {5>Google account &lt;5}before creating it.</target>
+</trans-unit>
+</group>
+<group id="740">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:740" xml:space="preserve">
+<source xml:lang="en">This panel shows you the list of {1>all projects created using your Google account &lt;1}and allows you to check the progress and status of your projects or recover them if needed.</source>
+<target xml:lang="fi">This panel shows you the list of {1>all projects created using your Google account &lt;1}and allows you to check the progress and status of your projects or recover them if needed.</target>
+</trans-unit>
+</group>
+<group id="741">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:741" xml:space="preserve">
+<source xml:lang="en">To log in with your Google account, click on the {1>Login &lt;1}button at the bottom of the MateCat home page and sign in using your Google account.</source>
+<target xml:lang="fi">To log in with your Google account, click on the {1>Login &lt;1}button at the bottom of the MateCat home page and sign in using your Google account.</target>
+</trans-unit>
+</group>
+<group id="742">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:742" xml:space="preserve">
+<source xml:lang="en">{1}{2>Note&lt;2}{3>: remember to &lt;3}{4>always log in before &lt;4}{5>creating a project&lt;5}{6> if you want to add it to your &lt;6}{7>Man-agement Panel&lt;7}{8>.&lt;8}</source>
+<target xml:lang="fi">{1}{2>Note&lt;2}{3>: remember to &lt;3}{4>always log in before &lt;4}{5>creating a project&lt;5}{6> if you want to add it to your &lt;6}{7>Man-agement Panel&lt;7}{8>.&lt;8}</target>
+</trans-unit>
+</group>
+<group id="743">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:743" xml:space="preserve">
+<source xml:lang="en">{8>If you create a project &lt;8}{9>without logging in &lt;9}{10>with your Google account, the &lt;10}{11>job URL &lt;11}{12>of the project will not be saved automatically so please remember to save it manually in a safe place in order to be able to recover it easily if needed.&lt;12}</source>
+<target xml:lang="fi">{8>If you create a project &lt;8}{9>without logging in &lt;9}{10>with your Google account, the &lt;10}{11>job URL &lt;11}{12>of the project will not be saved automatically so please remember to save it manually in a safe place in order to be able to recover it easily if needed.&lt;12}</target>
+</trans-unit>
+</group>
+<group id="744">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:744" xml:space="preserve">
+<source xml:lang="en">To access the {1>Management panel &lt;1}{2>you can:&lt;2}</source>
+<target xml:lang="fi">To access the {1>Management panel &lt;1}{2>you can:&lt;2}</target>
+</trans-unit>
+</group>
+<group id="745">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:745" xml:space="preserve">
+<source xml:lang="en">• {1>Go to &lt;1}{2>http://www.matecat.com/manage/1, &lt;2}{3>or&lt;3}</source>
+<target xml:lang="fi">• {1>Go to &lt;1}{2>http://www.matecat.com/manage/1, &lt;2}{3>or&lt;3}</target>
+</trans-unit>
+</group>
+<group id="746">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:746" xml:space="preserve">
+<source xml:lang="en">• {1>Click on Manage at the bottom of the MateCat home page&lt;1}</source>
+<target xml:lang="fi">• {1>Click on Manage at the bottom of the MateCat home page&lt;1}</target>
+</trans-unit>
+</group>
+<group id="747">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:747" xml:space="preserve">
+<source xml:lang="en">All relevant information is available for each project, as shown in the screenshot below:</source>
+<target xml:lang="fi">All relevant information is available for each project, as shown in the screenshot below:</target>
+</trans-unit>
+</group>
+<group id="748">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:748" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="749">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:749" xml:space="preserve">
+<source xml:lang="en">Page 55</source>
+<target xml:lang="fi">Page 55</target>
+</trans-unit>
+</group>
+<group id="750">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:750" xml:space="preserve">
+<source xml:lang="en">Management panel</source>
+<target xml:lang="fi">Management panel</target>
+</trans-unit>
+</group>
+<group id="751">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:751" xml:space="preserve">
+<source xml:lang="en">For each project you have:</source>
+<target xml:lang="fi">For each project you have:</target>
+</trans-unit>
+</group>
+<group id="752">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:752" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="753">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:753" xml:space="preserve">
+<source xml:lang="en">Page 56</source>
+<target xml:lang="fi">Page 56</target>
+</trans-unit>
+</group>
+<group id="754">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:754" xml:space="preserve">
+<source xml:lang="en">• {1>Project name (11605615)&lt;1}</source>
+<target xml:lang="fi">• {1>Project name (11605615)&lt;1}</target>
+</trans-unit>
+</group>
+<group id="755">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:755" xml:space="preserve">
+<source xml:lang="en">• {1>MateCat Project ID (36200)&lt;1}</source>
+<target xml:lang="fi">• {1>MateCat Project ID (36200)&lt;1}</target>
+</trans-unit>
+</group>
+<group id="756">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:756" xml:space="preserve">
+<source xml:lang="en">{1>• &lt;1}Total number of words in the project and link to the {2>Volume Analysis Page&lt;2} (2,549 payable words)</source>
+<target xml:lang="fi">{1>• &lt;1}Total number of words in the project and link to the {2>Volume Analysis Page&lt;2} (2,549 payable words)</target>
+</trans-unit>
+</group>
+<group id="757">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:757" xml:space="preserve">
+<source xml:lang="en">• {1>Machine Translation Server&lt;1}{2> (MyMemory (All Pairs)) &lt;2}• {3>Creation date (September 05 Friday, 18:21)&lt;3}</source>
+<target xml:lang="fi">• {1>Machine Translation Server&lt;1}{2> (MyMemory (All Pairs)) &lt;2}• {3>Creation date (September 05 Friday, 18:21)&lt;3}</target>
+</trans-unit>
+</group>
+<group id="758">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:758" xml:space="preserve">
+<source xml:lang="en">• {1>Link to the translation jobs divided per language combination and MateCat job ID (under “Job” column) - you can access the &lt;1}{2>Translation Editor&lt;2}{3> window of each job by clicking on the corresponding &lt;3}{4>job URL&lt;4}</source>
+<target xml:lang="fi">• {1>Link to the translation jobs divided per language combination and MateCat job ID (under “Job” column) - you can access the &lt;1}{2>Translation Editor&lt;2}{3> window of each job by clicking on the corresponding &lt;3}{4>job URL&lt;4}</target>
+</trans-unit>
+</group>
+<group id="759">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:759" xml:space="preserve">
+<source xml:lang="en">• {1>Private TM Key (if any; blank column if not present)&lt;1}</source>
+<target xml:lang="fi">• {1>Private TM Key (if any; blank column if not present)&lt;1}</target>
+</trans-unit>
+</group>
+<group id="760">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:760" xml:space="preserve">
+<source xml:lang="en">• {1>Payable words&lt;1}{2> per job (under Payable Words column)&lt;2}</source>
+<target xml:lang="fi">• {1>Payable words&lt;1}{2> per job (under Payable Words column)&lt;2}</target>
+</trans-unit>
+</group>
+<group id="761">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:761" xml:space="preserve">
+<source xml:lang="en">• {1>Progress bar of each translation job (under “Progress” column)&lt;1}</source>
+<target xml:lang="fi">• {1>Progress bar of each translation job (under “Progress” column)&lt;1}</target>
+</trans-unit>
+</group>
+<group id="762">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:762" xml:space="preserve">
+<source xml:lang="en">• {1>A series of buttons that enable you to perform a number of tasks:&lt;1}</source>
+<target xml:lang="fi">• {1>A series of buttons that enable you to perform a number of tasks:&lt;1}</target>
+</trans-unit>
+</group>
+<group id="763">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:763" xml:space="preserve">
+<source xml:lang="en">{1}{2>Change job password &lt;2}{3>– This modifies the password of the job.&lt;3}</source>
+<target xml:lang="fi">{1}{2>Change job password &lt;2}{3>– This modifies the password of the job.&lt;3}</target>
+</trans-unit>
+</group>
+<group id="764">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:764" xml:space="preserve">
+<source xml:lang="en">{1}{2>Cancel job/project &lt;2}{3>– This deletes the job/project and disables the URL.&lt;3}</source>
+<target xml:lang="fi">{1}{2>Cancel job/project &lt;2}{3>– This deletes the job/project and disables the URL.&lt;3}</target>
+</trans-unit>
+</group>
+<group id="765">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:765" xml:space="preserve">
+<source xml:lang="en">{1}{2>Archive Job/project &lt;2}{3>– This prevents any changes from being applied to the job/project.&lt;3}</source>
+<target xml:lang="fi">{1}{2>Archive Job/project &lt;2}{3>– This prevents any changes from being applied to the job/project.&lt;3}</target>
+</trans-unit>
+</group>
+<group id="766">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:766" xml:space="preserve">
+<source xml:lang="en">{3>However, the URL will still work and is accessible in r&lt;3}{4>ead-only mode&lt;4}{5>.&lt;5}</source>
+<target xml:lang="fi">{3>However, the URL will still work and is accessible in r&lt;3}{4>ead-only mode&lt;4}{5>.&lt;5}</target>
+</trans-unit>
+</group>
+<group id="767">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:767" xml:space="preserve">
+<source xml:lang="en">{1}{2>Resume &lt;2}{3>project&lt;3}</source>
+<target xml:lang="fi">{1}{2>Resume &lt;2}{3>project&lt;3}</target>
+</trans-unit>
+</group>
+<group id="768">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:768" xml:space="preserve">
+<source xml:lang="en">{1}{2>Unarchive &lt;2}{3>project&lt;3}</source>
+<target xml:lang="fi">{1}{2>Unarchive &lt;2}{3>project&lt;3}</target>
+</trans-unit>
+</group>
+<group id="769">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:769" xml:space="preserve">
+<source xml:lang="en">By default, the management panel will show your {1>active projects &lt;1}{2>only, in &lt;2}{3>chronological order&lt;3}{4>.&lt;4}</source>
+<target xml:lang="fi">By default, the management panel will show your {1>active projects &lt;1}{2>only, in &lt;2}{3>chronological order&lt;3}{4>.&lt;4}</target>
+</trans-unit>
+</group>
+<group id="770">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:770" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="771">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:771" xml:space="preserve">
+<source xml:lang="en">Page 57</source>
+<target xml:lang="fi">Page 57</target>
+</trans-unit>
+</group>
+<group id="772">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:772" xml:space="preserve">
+<source xml:lang="en">{1}{2>You can filter and see the cancelled and archived projects by clicking on the &lt;2}{3>Filter &lt;3}{4>button&lt;4}</source>
+<target xml:lang="fi">{1}{2>You can filter and see the cancelled and archived projects by clicking on the &lt;2}{3>Filter &lt;3}{4>button&lt;4}</target>
+</trans-unit>
+</group>
+<group id="773">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:773" xml:space="preserve">
+<source xml:lang="en">{4>or on “Showing active projects” at the top of the page.&lt;4}</source>
+<target xml:lang="fi">{4>or on “Showing active projects” at the top of the page.&lt;4}</target>
+</trans-unit>
+</group>
+<group id="774">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:774" xml:space="preserve">
+<source xml:lang="en">The following {1>search window &lt;1}{2>will be displayed:&lt;2}</source>
+<target xml:lang="fi">The following {1>search window &lt;1}{2>will be displayed:&lt;2}</target>
+</trans-unit>
+</group>
+<group id="775">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:775" xml:space="preserve">
+<source xml:lang="en">You can filter your search by:</source>
+<target xml:lang="fi">You can filter your search by:</target>
+</trans-unit>
+</group>
+<group id="776">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:776" xml:space="preserve">
+<source xml:lang="en">• {1>Project name&lt;1}</source>
+<target xml:lang="fi">• {1>Project name&lt;1}</target>
+</trans-unit>
+</group>
+<group id="777">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:777" xml:space="preserve">
+<source xml:lang="en">• {1>Source or target language (or both)&lt;1}</source>
+<target xml:lang="fi">• {1>Source or target language (or both)&lt;1}</target>
+</trans-unit>
+</group>
+<group id="778">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:778" xml:space="preserve">
+<source xml:lang="en">• {1>Status (Active, Archived or Cancelled)&lt;1}</source>
+<target xml:lang="fi">• {1>Status (Active, Archived or Cancelled)&lt;1}</target>
+</trans-unit>
+</group>
+<group id="779">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:779" xml:space="preserve">
+<source xml:lang="en">Click on the {1>FILTER &lt;1}button to apply your criteria to the search.</source>
+<target xml:lang="fi">Click on the {1>FILTER &lt;1}button to apply your criteria to the search.</target>
+</trans-unit>
+</group>
+<group id="780">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:780" xml:space="preserve">
+<source xml:lang="en">{1}{2>For reasons of privacy, &lt;2}{3>your projects are automatically archived after 30 days of inactivity&lt;3}{4>.&lt;4}</source>
+<target xml:lang="fi">{1}{2>For reasons of privacy, &lt;2}{3>your projects are automatically archived after 30 days of inactivity&lt;3}{4>.&lt;4}</target>
+</trans-unit>
+</group>
+<group id="781">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:781" xml:space="preserve">
+<source xml:lang="en">{4>You will still be able to reactivate them in your Management panel or in the Management panel of the person who created the project.&lt;4}</source>
+<target xml:lang="fi">{4>You will still be able to reactivate them in your Management panel or in the Management panel of the person who created the project.&lt;4}</target>
+</trans-unit>
+</group>
+<group id="782">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:782" xml:space="preserve">
+<source xml:lang="en">Splitting Jobs</source>
+<target xml:lang="fi">Splitting Jobs</target>
+</trans-unit>
+</group>
+<group id="783">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:783" xml:space="preserve">
+<source xml:lang="en">MateCat provides an easy-to-use split functionality {1>to divide large jobs into smaller parts and assign them to multiple translators&lt;1}.</source>
+<target xml:lang="fi">MateCat provides an easy-to-use split functionality {1>to divide large jobs into smaller parts and assign them to multiple translators&lt;1}.</target>
+</trans-unit>
+</group>
+<group id="784">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:784" xml:space="preserve">
+<source xml:lang="en">This is useful for large {2>collaborative projects&lt;2}.</source>
+<target xml:lang="fi">This is useful for large {2>collaborative projects&lt;2}.</target>
+</trans-unit>
+</group>
+<group id="785">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:785" xml:space="preserve">
+<source xml:lang="en">You can split a job from the {1>Volume Analysis page&lt;1}.</source>
+<target xml:lang="fi">You can split a job from the {1>Volume Analysis page&lt;1}.</target>
+</trans-unit>
+</group>
+<group id="786">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:786" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="787">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:787" xml:space="preserve">
+<source xml:lang="en">Page 58</source>
+<target xml:lang="fi">Page 58</target>
+</trans-unit>
+</group>
+<group id="788">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:788" xml:space="preserve">
+<source xml:lang="en">{1>After completion of the volume analysis, you can select &lt;1}{2>how many jobs &lt;2}you would like to create and click on the {3>Split &lt;3}button.</source>
+<target xml:lang="fi">{1>After completion of the volume analysis, you can select &lt;1}{2>how many jobs &lt;2}you would like to create and click on the {3>Split &lt;3}button.</target>
+</trans-unit>
+</group>
+<group id="789">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:789" xml:space="preserve">
+<source xml:lang="en">In the following example, we are going to create 4 jobs:</source>
+<target xml:lang="fi">In the following example, we are going to create 4 jobs:</target>
+</trans-unit>
+</group>
+<group id="790">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:790" xml:space="preserve">
+<source xml:lang="en">You will then be presented with a dialogue window where you can enter the approximate number of words for each job.</source>
+<target xml:lang="fi">You will then be presented with a dialogue window where you can enter the approximate number of words for each job.</target>
+</trans-unit>
+</group>
+<group id="791">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:791" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="792">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:792" xml:space="preserve">
+<source xml:lang="en">Page 59</source>
+<target xml:lang="fi">Page 59</target>
+</trans-unit>
+</group>
+<group id="793">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:793" xml:space="preserve">
+<source xml:lang="en">Splitting a job in 4 parts.</source>
+<target xml:lang="fi">Splitting a job in 4 parts.</target>
+</trans-unit>
+</group>
+<group id="794">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:794" xml:space="preserve">
+<source xml:lang="en">The word count is approximate until you click on the Check button.</source>
+<target xml:lang="fi">The word count is approximate until you click on the Check button.</target>
+</trans-unit>
+</group>
+<group id="795">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:795" xml:space="preserve">
+<source xml:lang="en">When you click on the {1>Check &lt;1}{2>button, MateCat checks each part and divides segments into an indicative number of words, avoiding any overlap between segments.&lt;2}</source>
+<target xml:lang="fi">When you click on the {1>Check &lt;1}{2>button, MateCat checks each part and divides segments into an indicative number of words, avoiding any overlap between segments.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="796">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:796" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="797">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:797" xml:space="preserve">
+<source xml:lang="en">Page 60</source>
+<target xml:lang="fi">Page 60</target>
+</trans-unit>
+</group>
+<group id="798">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:798" xml:space="preserve">
+<source xml:lang="en">Splitting a job in 4 parts after checking the word count.</source>
+<target xml:lang="fi">Splitting a job in 4 parts after checking the word count.</target>
+</trans-unit>
+</group>
+<group id="799">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:799" xml:space="preserve">
+<source xml:lang="en">Note that the word count for each part has changed.</source>
+<target xml:lang="fi">Note that the word count for each part has changed.</target>
+</trans-unit>
+</group>
+<group id="800">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:800" xml:space="preserve">
+<source xml:lang="en">{1>When you click on &lt;1}{2>Confirm&lt;2}, you will be presented with a {3>detailed analysis of the split jobs &lt;3}and a {4>Translate &lt;4}button for each part.</source>
+<target xml:lang="fi">{1>When you click on &lt;1}{2>Confirm&lt;2}, you will be presented with a {3>detailed analysis of the split jobs &lt;3}and a {4>Translate &lt;4}button for each part.</target>
+</trans-unit>
+</group>
+<group id="801">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:801" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="802">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:802" xml:space="preserve">
+<source xml:lang="en">Page 61</source>
+<target xml:lang="fi">Page 61</target>
+</trans-unit>
+</group>
+<group id="803">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:803" xml:space="preserve">
+<source xml:lang="en">A job split in four parts</source>
+<target xml:lang="fi">A job split in four parts</target>
+</trans-unit>
+</group>
+<group id="804">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:804" xml:space="preserve">
+<source xml:lang="en">In the event that you make a mistake and would like to undo the splitting, just click on the {1>Merge all &lt;1}{2>button and the different parts will be merged back into the original job.&lt;2}</source>
+<target xml:lang="fi">In the event that you make a mistake and would like to undo the splitting, just click on the {1>Merge all &lt;1}{2>button and the different parts will be merged back into the original job.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="805">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:805" xml:space="preserve">
+<source xml:lang="en">You just need to send each translator the {1>Job URL&lt;1} for the part they will be working on.</source>
+<target xml:lang="fi">You just need to send each translator the {1>Job URL&lt;1} for the part they will be working on.</target>
+</trans-unit>
+</group>
+<group id="806">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:806" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="807">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:807" xml:space="preserve">
+<source xml:lang="en">Page 62</source>
+<target xml:lang="fi">Page 62</target>
+</trans-unit>
+</group>
+<group id="808">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:808" xml:space="preserve">
+<source xml:lang="en">When clicking on their link, translators will only see the part of the document assigned to them as editable.</source>
+<target xml:lang="fi">When clicking on their link, translators will only see the part of the document assigned to them as editable.</target>
+</trans-unit>
+</group>
+<group id="809">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:809" xml:space="preserve">
+<source xml:lang="en">{1>They can also see the rest of the file, but they will not be able to edit it.&lt;1}</source>
+<target xml:lang="fi">{1>They can also see the rest of the file, but they will not be able to edit it.&lt;1}</target>
+</trans-unit>
+</group>
+<group id="810">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:810" xml:space="preserve">
+<source xml:lang="en">{2>They will see the rest of the document being translated &lt;2}{3>in real time &lt;3}{4>and can refer to the other parts for comparison.&lt;4}</source>
+<target xml:lang="fi">{2>They will see the rest of the document being translated &lt;2}{3>in real time &lt;3}{4>and can refer to the other parts for comparison.&lt;4}</target>
+</trans-unit>
+</group>
+<group id="811">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:811" xml:space="preserve">
+<source xml:lang="en">{1}{2>They will also &lt;2}{3>share a &lt;3}{4>private TM key&lt;4}{5>, if previously associated, where all translations will be stored, so &lt;5}{6>each translator will also receive suggestions for segments already translated by the other translators &lt;6}{7>within the same project.&lt;7}</source>
+<target xml:lang="fi">{1}{2>They will also &lt;2}{3>share a &lt;3}{4>private TM key&lt;4}{5>, if previously associated, where all translations will be stored, so &lt;5}{6>each translator will also receive suggestions for segments already translated by the other translators &lt;6}{7>within the same project.&lt;7}</target>
+</trans-unit>
+</group>
+<group id="812">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:812" xml:space="preserve">
+<source xml:lang="en">Each translation is complete once {1>all segments &lt;1}{2>of that job have been translated and marked as translated.&lt;2}</source>
+<target xml:lang="fi">Each translation is complete once {1>all segments &lt;1}{2>of that job have been translated and marked as translated.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="813">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:813" xml:space="preserve">
+<source xml:lang="en">{2>The progress bar at the bottom of the screen should be blue and the To-do count should be zero.&lt;2}</source>
+<target xml:lang="fi">{2>The progress bar at the bottom of the screen should be blue and the To-do count should be zero.&lt;2}</target>
+</trans-unit>
+</group>
+<group id="814">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:814" xml:space="preserve">
+<source xml:lang="en">{1>The &lt;1}{2>progress bar&lt;2}{3>, the &lt;3}{4>To-do count&lt;4}{5> and the &lt;5}{6>payable words&lt;6}{7> count only refer to the current job&lt;7}.</source>
+<target xml:lang="fi">{1>The &lt;1}{2>progress bar&lt;2}{3>, the &lt;3}{4>To-do count&lt;4}{5> and the &lt;5}{6>payable words&lt;6}{7> count only refer to the current job&lt;7}.</target>
+</trans-unit>
+</group>
+<group id="815">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:815" xml:space="preserve">
+<source xml:lang="en">You can check the status and progress of each job from your own {8>Management Panel.&lt;8}</source>
+<target xml:lang="fi">You can check the status and progress of each job from your own {8>Management Panel.&lt;8}</target>
+</trans-unit>
+</group>
+<group id="816">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:816" xml:space="preserve">
+<source xml:lang="en">{9>Once all jobs are 100% complete, you can click on any of the links and click on the &lt;9}{10>Download translation &lt;10}button.</source>
+<target xml:lang="fi">{9>Once all jobs are 100% complete, you can click on any of the links and click on the &lt;9}{10>Download translation &lt;10}button.</target>
+</trans-unit>
+</group>
+<group id="817">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:817" xml:space="preserve">
+<source xml:lang="en">In this way you will download the {11>whole translated file&lt;11}.</source>
+<target xml:lang="fi">In this way you will download the {11>whole translated file&lt;11}.</target>
+</trans-unit>
+</group>
+<group id="818">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:818" xml:space="preserve">
+<source xml:lang="en">Resources for LSPs</source>
+<target xml:lang="fi">Resources for LSPs</target>
+</trans-unit>
+</group>
+<group id="819">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:819" xml:space="preserve">
+<source xml:lang="en">MateCat can help LSPs (Language Service Providers) to manage projects easily and perform all checks not only after delivery by the translator but also {1>during the translation job &lt;1}itself.</source>
+<target xml:lang="fi">MateCat can help LSPs (Language Service Providers) to manage projects easily and perform all checks not only after delivery by the translator but also {1>during the translation job &lt;1}itself.</target>
+</trans-unit>
+</group>
+<group id="820">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:820" xml:space="preserve">
+<source xml:lang="en">The main tools and functions available for Project Managers are the {1>Management&lt;1} {2>Panel,&lt;2} the {3>Editing log&lt;3} and the {4>QA messages&lt;4}{5> in the &lt;5}{6>Translation Editor window&lt;6}.</source>
+<target xml:lang="fi">The main tools and functions available for Project Managers are the {1>Management&lt;1} {2>Panel,&lt;2} the {3>Editing log&lt;3} and the {4>QA messages&lt;4}{5> in the &lt;5}{6>Translation Editor window&lt;6}.</target>
+</trans-unit>
+</group>
+<group id="821">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:821" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="822">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:822" xml:space="preserve">
+<source xml:lang="en">Page 63</source>
+<target xml:lang="fi">Page 63</target>
+</trans-unit>
+</group>
+<group id="823">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:823" xml:space="preserve">
+<source xml:lang="en">Through the Management Panel, the Project Manager can easily check {1>the status &lt;1}{2>of all translation jobs in &lt;2}{3>real time&lt;3}.</source>
+<target xml:lang="fi">Through the Management Panel, the Project Manager can easily check {1>the status &lt;1}{2>of all translation jobs in &lt;2}{3>real time&lt;3}.</target>
+</trans-unit>
+</group>
+<group id="824">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:824" xml:space="preserve">
+<source xml:lang="en">Here, he/she has a list of all active projects in chronological order and the progress bar for each job.</source>
+<target xml:lang="fi">Here, he/she has a list of all active projects in chronological order and the progress bar for each job.</target>
+</trans-unit>
+</group>
+<group id="825">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:825" xml:space="preserve">
+<source xml:lang="en">{1>By clicking on the job URL of a specific project, it is possible to &lt;1}{2>check errors during the translation &lt;2}and promptly advise the translator working on the project.</source>
+<target xml:lang="fi">{1>By clicking on the job URL of a specific project, it is possible to &lt;1}{2>check errors during the translation &lt;2}and promptly advise the translator working on the project.</target>
+</trans-unit>
+</group>
+<group id="826">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:826" xml:space="preserve">
+<source xml:lang="en">Through the QA module, it is possible to check if there are {3>tag errors or translation conflicts &lt;3}during the translation, without waiting for delivery by the translator and thus save time.</source>
+<target xml:lang="fi">Through the QA module, it is possible to check if there are {3>tag errors or translation conflicts &lt;3}during the translation, without waiting for delivery by the translator and thus save time.</target>
+</trans-unit>
+</group>
+<group id="827">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:827" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="828">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:828" xml:space="preserve">
+<source xml:lang="en">Page 64</source>
+<target xml:lang="fi">Page 64</target>
+</trans-unit>
+</group>
+<group id="829">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:829" xml:space="preserve">
+<source xml:lang="en">From the Translation Editor window, it is possible to access the Editing Log page by clicking on the {1>Editing Log &lt;1}button at the bottom of the page.</source>
+<target xml:lang="fi">From the Translation Editor window, it is possible to access the Editing Log page by clicking on the {1>Editing Log &lt;1}button at the bottom of the page.</target>
+</trans-unit>
+</group>
+<group id="830">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:830" xml:space="preserve">
+<source xml:lang="en">{1>In the Editing Log, the Project Manager can check the &lt;1}{2>time &lt;2}spent by the translator for editing each segment, the total time spent by the translator to translate the entire file and check the {3>edits &lt;3}made to suggestions.</source>
+<target xml:lang="fi">{1>In the Editing Log, the Project Manager can check the &lt;1}{2>time &lt;2}spent by the translator for editing each segment, the total time spent by the translator to translate the entire file and check the {3>edits &lt;3}made to suggestions.</target>
+</trans-unit>
+</group>
+<group id="831">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:831" xml:space="preserve">
+<source xml:lang="en">The changes are highlighted with track changes.</source>
+<target xml:lang="fi">The changes are highlighted with track changes.</target>
+</trans-unit>
+</group>
+<group id="832">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:832" xml:space="preserve">
+<source xml:lang="en">This can help the Project Manager identify the Post-Editing efforts of the translator to edit the segments.</source>
+<target xml:lang="fi">This can help the Project Manager identify the Post-Editing efforts of the translator to edit the segments.</target>
+</trans-unit>
+</group>
+<group id="833">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:833" xml:space="preserve">
+<source xml:lang="en">Appendix</source>
+<target xml:lang="fi">Appendix</target>
+</trans-unit>
+</group>
+<group id="834">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:834" xml:space="preserve">
+<source xml:lang="en">Keyboard Shortcuts</source>
+<target xml:lang="fi">Keyboard Shortcuts</target>
+</trans-unit>
+</group>
+<group id="835">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:835" xml:space="preserve">
+<source xml:lang="en">MateCat relies heavily on {1>keyboard shortcuts &lt;1}for standard and advanced functionalities.</source>
+<target xml:lang="fi">MateCat relies heavily on {1>keyboard shortcuts &lt;1}for standard and advanced functionalities.</target>
+</trans-unit>
+</group>
+<group id="836">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:836" xml:space="preserve">
+<source xml:lang="en">Getting to know the shortcuts below will help you be more productive when translating in MateCat.</source>
+<target xml:lang="fi">Getting to know the shortcuts below will help you be more productive when translating in MateCat.</target>
+</trans-unit>
+</group>
+<group id="837">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:837" xml:space="preserve">
+<source xml:lang="en">{b>Functionality&lt;b}</source>
+<target xml:lang="fi">{b>Functionality&lt;b}</target>
+</trans-unit>
+</group>
+<group id="838">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:838" xml:space="preserve">
+<source xml:lang="en">{b>Windows&lt;b}</source>
+<target xml:lang="fi">{b>Windows&lt;b}</target>
+</trans-unit>
+</group>
+<group id="839">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:839" xml:space="preserve">
+<source xml:lang="en">{b>Mac&lt;b}</source>
+<target xml:lang="fi">{b>Mac&lt;b}</target>
+</trans-unit>
+</group>
+<group id="840">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:840" xml:space="preserve">
+<source xml:lang="en">Confirm translation (click on Translated)</source>
+<target xml:lang="fi">Confirm translation (click on Translated)</target>
+</trans-unit>
+</group>
+<group id="841">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:841" xml:space="preserve">
+<source xml:lang="en">CTRL+Enter</source>
+<target xml:lang="fi">CTRL+Enter</target>
+</trans-unit>
+</group>
+<group id="842">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:842" xml:space="preserve">
+<source xml:lang="en">CTRL+Enter</source>
+<target xml:lang="fi">CTRL+Enter</target>
+</trans-unit>
+</group>
+<group id="843">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:843" xml:space="preserve">
+<source xml:lang="en">CMD+Enter</source>
+<target xml:lang="fi">CMD+Enter</target>
+</trans-unit>
+</group>
+<group id="844">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:844" xml:space="preserve">
+<source xml:lang="en">Confirm translation and go to next untranslated segment (click on [T+>>])</source>
+<target xml:lang="fi">Confirm translation and go to next untranslated segment (click on [T+>>])</target>
+</trans-unit>
+</group>
+<group id="845">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:845" xml:space="preserve">
+<source xml:lang="en">CTRL+SHIFT+Enter</source>
+<target xml:lang="fi">CTRL+SHIFT+Enter</target>
+</trans-unit>
+</group>
+<group id="846">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:846" xml:space="preserve">
+<source xml:lang="en">CTRL+SHIFT+Enter</source>
+<target xml:lang="fi">CTRL+SHIFT+Enter</target>
+</trans-unit>
+</group>
+<group id="847">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:847" xml:space="preserve">
+<source xml:lang="en">CMD+SHIFT+Enter</source>
+<target xml:lang="fi">CMD+SHIFT+Enter</target>
+</trans-unit>
+</group>
+<group id="848">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:848" xml:space="preserve">
+<source xml:lang="en">Go to next segment</source>
+<target xml:lang="fi">Go to next segment</target>
+</trans-unit>
+</group>
+<group id="849">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:849" xml:space="preserve">
+<source xml:lang="en">CTRL+Down</source>
+<target xml:lang="fi">CTRL+Down</target>
+</trans-unit>
+</group>
+<group id="850">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:850" xml:space="preserve">
+<source xml:lang="en">CTRL+Down</source>
+<target xml:lang="fi">CTRL+Down</target>
+</trans-unit>
+</group>
+<group id="851">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:851" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="852">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:852" xml:space="preserve">
+<source xml:lang="en">Page 65</source>
+<target xml:lang="fi">Page 65</target>
+</trans-unit>
+</group>
+<group id="853">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:853" xml:space="preserve">
+<source xml:lang="en">Return to previous segment</source>
+<target xml:lang="fi">Return to previous segment</target>
+</trans-unit>
+</group>
+<group id="854">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:854" xml:space="preserve">
+<source xml:lang="en">CTRL+Up</source>
+<target xml:lang="fi">CTRL+Up</target>
+</trans-unit>
+</group>
+<group id="855">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:855" xml:space="preserve">
+<source xml:lang="en">CTRL+Up</source>
+<target xml:lang="fi">CTRL+Up</target>
+</trans-unit>
+</group>
+<group id="856">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:856" xml:space="preserve">
+<source xml:lang="en">Go to current segment</source>
+<target xml:lang="fi">Go to current segment</target>
+</trans-unit>
+</group>
+<group id="857">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:857" xml:space="preserve">
+<source xml:lang="en">CTRL+Home</source>
+<target xml:lang="fi">CTRL+Home</target>
+</trans-unit>
+</group>
+<group id="858">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:858" xml:space="preserve">
+<source xml:lang="en">CMD+SHIFT+up</source>
+<target xml:lang="fi">CMD+SHIFT+up</target>
+</trans-unit>
+</group>
+<group id="859">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:859" xml:space="preserve">
+<source xml:lang="en">Copy source to target</source>
+<target xml:lang="fi">Copy source to target</target>
+</trans-unit>
+</group>
+<group id="860">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:860" xml:space="preserve">
+<source xml:lang="en">ALT+CTRL+i</source>
+<target xml:lang="fi">ALT+CTRL+i</target>
+</trans-unit>
+</group>
+<group id="861">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:861" xml:space="preserve">
+<source xml:lang="en">ALT+CTRL+i</source>
+<target xml:lang="fi">ALT+CTRL+i</target>
+</trans-unit>
+</group>
+<group id="862">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:862" xml:space="preserve">
+<source xml:lang="en">Undo in segment (available in active segment)</source>
+<target xml:lang="fi">Undo in segment (available in active segment)</target>
+</trans-unit>
+</group>
+<group id="863">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:863" xml:space="preserve">
+<source xml:lang="en">CTRL+z</source>
+<target xml:lang="fi">CTRL+z</target>
+</trans-unit>
+</group>
+<group id="864">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:864" xml:space="preserve">
+<source xml:lang="en">CTRL+z</source>
+<target xml:lang="fi">CTRL+z</target>
+</trans-unit>
+</group>
+<group id="865">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:865" xml:space="preserve">
+<source xml:lang="en">CMD+z</source>
+<target xml:lang="fi">CMD+z</target>
+</trans-unit>
+</group>
+<group id="866">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:866" xml:space="preserve">
+<source xml:lang="en">Redo in segment (available in active segment)</source>
+<target xml:lang="fi">Redo in segment (available in active segment)</target>
+</trans-unit>
+</group>
+<group id="867">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:867" xml:space="preserve">
+<source xml:lang="en">CTRL+y</source>
+<target xml:lang="fi">CTRL+y</target>
+</trans-unit>
+</group>
+<group id="868">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:868" xml:space="preserve">
+<source xml:lang="en">CMD+SHIFT+z</source>
+<target xml:lang="fi">CMD+SHIFT+z</target>
+</trans-unit>
+</group>
+<group id="869">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:869" xml:space="preserve">
+<source xml:lang="en">Go to beginning of the line</source>
+<target xml:lang="fi">Go to beginning of the line</target>
+</trans-unit>
+</group>
+<group id="870">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:870" xml:space="preserve">
+<source xml:lang="en">Home</source>
+<target xml:lang="fi">Home</target>
+</trans-unit>
+</group>
+<group id="871">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:871" xml:space="preserve">
+<source xml:lang="en">CMD+left</source>
+<target xml:lang="fi">CMD+left</target>
+</trans-unit>
+</group>
+<group id="872">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:872" xml:space="preserve">
+<source xml:lang="en">Go to end of the line</source>
+<target xml:lang="fi">Go to end of the line</target>
+</trans-unit>
+</group>
+<group id="873">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:873" xml:space="preserve">
+<source xml:lang="en">End</source>
+<target xml:lang="fi">End</target>
+</trans-unit>
+</group>
+<group id="874">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:874" xml:space="preserve">
+<source xml:lang="en">CMD+right</source>
+<target xml:lang="fi">CMD+right</target>
+</trans-unit>
+</group>
+<group id="875">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:875" xml:space="preserve">
+<source xml:lang="en">Move the cursor word by word to the right</source>
+<target xml:lang="fi">Move the cursor word by word to the right</target>
+</trans-unit>
+</group>
+<group id="876">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:876" xml:space="preserve">
+<source xml:lang="en">CTRL+right</source>
+<target xml:lang="fi">CTRL+right</target>
+</trans-unit>
+</group>
+<group id="877">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:877" xml:space="preserve">
+<source xml:lang="en">ALT+right</source>
+<target xml:lang="fi">ALT+right</target>
+</trans-unit>
+</group>
+<group id="878">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:878" xml:space="preserve">
+<source xml:lang="en">Move the cursor word by word to the left</source>
+<target xml:lang="fi">Move the cursor word by word to the left</target>
+</trans-unit>
+</group>
+<group id="879">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:879" xml:space="preserve">
+<source xml:lang="en">CTRL+left</source>
+<target xml:lang="fi">CTRL+left</target>
+</trans-unit>
+</group>
+<group id="880">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:880" xml:space="preserve">
+<source xml:lang="en">ALT+left</source>
+<target xml:lang="fi">ALT+left</target>
+</trans-unit>
+</group>
+<group id="881">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:881" xml:space="preserve">
+<source xml:lang="en">Open search (if not yet opened)</source>
+<target xml:lang="fi">Open search (if not yet opened)</target>
+</trans-unit>
+</group>
+<group id="882">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:882" xml:space="preserve">
+<source xml:lang="en">CTRL+f</source>
+<target xml:lang="fi">CTRL+f</target>
+</trans-unit>
+</group>
+<group id="883">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:883" xml:space="preserve">
+<source xml:lang="en">CTRL+f</source>
+<target xml:lang="fi">CTRL+f</target>
+</trans-unit>
+</group>
+<group id="884">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:884" xml:space="preserve">
+<source xml:lang="en">CMD+f</source>
+<target xml:lang="fi">CMD+f</target>
+</trans-unit>
+</group>
+<group id="885">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:885" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="886">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:886" xml:space="preserve">
+<source xml:lang="en">Page 66</source>
+<target xml:lang="fi">Page 66</target>
+</trans-unit>
+</group>
+<group id="887">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:887" xml:space="preserve">
+<source xml:lang="en">Perform Concordance search on word(s) selected in the source or target segment</source>
+<target xml:lang="fi">Perform Concordance search on word(s) selected in the source or target segment</target>
+</trans-unit>
+</group>
+<group id="888">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:888" xml:space="preserve">
+<source xml:lang="en">ALT+ c</source>
+<target xml:lang="fi">ALT+ c</target>
+</trans-unit>
+</group>
+<group id="889">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:889" xml:space="preserve">
+<source xml:lang="en">ALT+ c</source>
+<target xml:lang="fi">ALT+ c</target>
+</trans-unit>
+</group>
+<group id="890">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:890" xml:space="preserve">
+<source xml:lang="en">Use Translation suggestions (first/second/third suggestion)</source>
+<target xml:lang="fi">Use Translation suggestions (first/second/third suggestion)</target>
+</trans-unit>
+</group>
+<group id="891">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:891" xml:space="preserve">
+<source xml:lang="en">CTRL+1/2/3</source>
+<target xml:lang="fi">CTRL+1/2/3</target>
+</trans-unit>
+</group>
+<group id="892">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:892" xml:space="preserve">
+<source xml:lang="en">CTRL+1/2/3</source>
+<target xml:lang="fi">CTRL+1/2/3</target>
+</trans-unit>
+</group>
+<group id="893">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:893" xml:space="preserve">
+<source xml:lang="en">Add a new line in the target segment</source>
+<target xml:lang="fi">Add a new line in the target segment</target>
+</trans-unit>
+</group>
+<group id="894">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:894" xml:space="preserve">
+<source xml:lang="en">SHIFT+Enter</source>
+<target xml:lang="fi">SHIFT+Enter</target>
+</trans-unit>
+</group>
+<group id="895">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:895" xml:space="preserve">
+<source xml:lang="en">SHIFT+Enter</source>
+<target xml:lang="fi">SHIFT+Enter</target>
+</trans-unit>
+</group>
+<group id="896">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:896" xml:space="preserve">
+<source xml:lang="en">Add a non-breaking space</source>
+<target xml:lang="fi">Add a non-breaking space</target>
+</trans-unit>
+</group>
+<group id="897">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:897" xml:space="preserve">
+<source xml:lang="en">CTRL+Shift+Space</source>
+<target xml:lang="fi">CTRL+Shift+Space</target>
+</trans-unit>
+</group>
+<group id="898">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:898" xml:space="preserve">
+<source xml:lang="en">CTRL+Shift+Space</source>
+<target xml:lang="fi">CTRL+Shift+Space</target>
+</trans-unit>
+</group>
+<group id="899">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:899" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="900">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:900" xml:space="preserve">
+<source xml:lang="en">Page 67</source>
+<target xml:lang="fi">Page 67</target>
+</trans-unit>
+</group>
+<group id="901">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:901" xml:space="preserve">
+<source xml:lang="en">Installing an open source version of MateCat</source>
+<target xml:lang="fi">Installing an open source version of MateCat</target>
+</trans-unit>
+</group>
+<group id="902">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:902" xml:space="preserve">
+<source xml:lang="en">We provide a guide meant for users who want to install and administer the open source version on their own machines.</source>
+<target xml:lang="fi">We provide a guide meant for users who want to install and administer the open source version on their own machines.</target>
+</trans-unit>
+</group>
+<group id="903">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:903" xml:space="preserve">
+<source xml:lang="en">{1>It is available at &lt;1}{2>{3>www.matecat.com/installation-guide&lt;3}{4>.&lt;4}&lt;2}</source>
+<target xml:lang="fi">{1>It is available at &lt;1}{2>{3>www.matecat.com/installation-guide&lt;3}{4>.&lt;4}&lt;2}</target>
+</trans-unit>
+</group>
+<group id="904">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:904" xml:space="preserve">
+<source xml:lang="en">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</source>
+<target xml:lang="fi">Release 1.4 | {1>{2>www.matecat.com &lt;2}{3>| &lt;3}&lt;1}{4>info@matecat.com&lt;4}</target>
+</trans-unit>
+</group>
+<group id="905">
+<trans-unit id="EH9aFLgcSBjSCBwm_dc4:905" xml:space="preserve">
+<source xml:lang="en">Page 68</source>
+<target xml:lang="fi">Page 68</target>
+</trans-unit>
+</group>
+</body>
+</file>
+</xliff>
